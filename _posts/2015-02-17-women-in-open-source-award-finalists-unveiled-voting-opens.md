@@ -2,7 +2,18 @@
 title: Women in Open Source Award Finalists Unveiled, Voting Opens
 author: rendsley
 date: 2015-02-17 21:06:06 UTC
-tags: Linux open source community education women in tech award Red Hat Summit OpenHatch MediaGoblin Software Freedom Conservancy
+tags:
+ - Linux
+ - open source
+ - community
+ - education
+ - women in tech award
+ - Red Hat Summit
+ - OpenHatch
+ - MediaGoblin
+ - Software
+ - Freedom
+ - Conservancy
 comments: true
 published: true
 ---

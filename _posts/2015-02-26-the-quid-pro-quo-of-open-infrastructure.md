@@ -2,8 +2,15 @@
 title: The Quid Pro Quo of Open Infrastructure
 author: ncoghlan
 date: 2015-02-26 15:42:04 UTC
-tags: Red Hat Linux open source open infrastructure Docker OpenStack innovation 
-  development
+tags:
+ - Red Hat
+ - Linux
+ - open source
+ - open infrastructure
+ - Docker
+ - OpenStack
+ - innovation
+ - development
 comments: true
 published: true
 ---

@@ -2,8 +2,15 @@
 title: 'All Things Open: A Look at Copyleft'
 author: glikins
 date: 2014-11-19 18:55:47 UTC
-tags: copyleft open source OpenStack OpenShift PaaS culture All Things Open 
-  diversity
+tags:
+ - copyleft
+ - open source
+ - OpenStack
+ - OpenShift
+ - PaaS
+ - culture
+ - All Things Open
+ - diversity
 comments: true
 published: true
 ---
