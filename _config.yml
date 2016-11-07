@@ -33,6 +33,7 @@ paginate_path: "/blog/page=:num"
 # Publish future-dated posts (otherwise they might not show up as expected)
 future: true
 
+encoding: UTF-8
 lang: en
 
 # Build settings
