@@ -47,6 +47,7 @@ lang: en
 # Truncate blog summaries to this length
 blog_summary_length: 50
 
+encoding: UTF-8
 lang: en
 
 # Build settings
