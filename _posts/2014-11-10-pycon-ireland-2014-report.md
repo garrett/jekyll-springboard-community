@@ -2,7 +2,7 @@
 title: PyCon Ireland 2014 Report
 author: jpichon
 date: 2014-11-10 16:43:40 UTC
-tags: PyCon, Python, Python 3, OpenShift
+tags: PyCon Python Python 3 OpenShift
 published: true
 comments: true
 ---

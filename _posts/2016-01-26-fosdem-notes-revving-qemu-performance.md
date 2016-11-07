@@ -2,7 +2,7 @@
 title: FOSDEM Notes&mdash;Revving QEMU Performance
 date: 2016-01-26 11:40 UTC
 author: bkp
-tags: FOSDEM, events, KVM
+tags: FOSDEM events KVM
 published: true
 comments: true
 ---

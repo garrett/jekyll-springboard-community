@@ -2,8 +2,7 @@
 title: Network Management and SDN at FOSDEM
 author: dneary
 date: 2015-01-30 10:30:07 UTC
-tags: FOSDEM, networking, devroom, VPNS, ethernet, SDN, Software Defined Networking,
-  virtualization, OpenStack, virtual, Open vSwitch, OpenNMS, DNS server
+tags: FOSDEM networking devroom VPNS ethernet SDN Software Defined Networking virtualization OpenStack virtual Open vSwitch OpenNMS DNS server
 comments: true
 published: true
 ---

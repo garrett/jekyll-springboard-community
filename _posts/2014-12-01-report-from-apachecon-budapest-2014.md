@@ -2,7 +2,7 @@
 title: Report from ApacheCon Budapest 2014
 author: rbowen
 date: 2014-12-01 17:23:00 UTC
-tags: Apache, ApacheCon, event, Linux Foundation, httpd, Docker, Apache Software Foundation
+tags: Apache ApacheCon event Linux Foundation httpd Docker Apache Software Foundation
 comments: true
 published: true
 ---

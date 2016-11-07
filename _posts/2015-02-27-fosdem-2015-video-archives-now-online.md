@@ -2,7 +2,7 @@
 title: FOSDEM 2015 Video Archives Now Online
 author: rendsley
 date: 2015-02-27 18:29:08 UTC
-tags: FOSDEM, Foreman, CentOS, video
+tags: FOSDEM Foreman CentOS video
 comments: true
 published: true
 ---

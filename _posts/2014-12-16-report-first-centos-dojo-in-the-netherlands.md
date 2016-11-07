@@ -2,7 +2,7 @@
 title: 'Report: First CentOS Dojo in the Netherlands '
 author: plaimbock
 date: 2014-12-16 17:31:05 UTC
-tags: CentOS, OpenStack, Dojo, Docker
+tags: CentOS OpenStack Dojo Docker
 comments: true
 published: true
 ---

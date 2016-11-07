@@ -2,7 +2,7 @@
 title: 'ApacheCon EU 2014: Budapest or Bust'
 author: rendsley
 date: 2014-11-11 22:18:11 UTC
-tags: Apache, ApacheCon, Docker, Documentation, Kubernetes
+tags: Apache ApacheCon Docker Documentation Kubernetes
 published: true
 comments: true
 ---

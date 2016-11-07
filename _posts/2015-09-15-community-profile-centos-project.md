@@ -2,7 +2,7 @@
 title: Community Profile--CentOS Project
 date: 2015-09-15 12:42 UTC
 author: bkp
-tags: CentOS, profile, community
+tags: CentOS profile community
 comments: true
 published: true
 ---

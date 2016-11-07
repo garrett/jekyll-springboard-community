@@ -2,7 +2,7 @@
 title: 'Impressing the In-Laws: Open Source for Non-Techies'
 author: bkp
 date: 2015-01-05 17:21:51 UTC
-tags: oVirt, open source, community
+tags: oVirt open source community
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: "Trying out oVirt's Probabilistic Optimizer"
 author: jbrooks
 date: 2015-02-11 21:57:48 UTC
-tags: ovirt, scale, optaplanner, docker
+tags: ovirt scale optaplanner docker
 comments: true
 published: true
 ---

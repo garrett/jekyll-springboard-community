@@ -1,7 +1,7 @@
 ---
 title: RDO Community Day at FOSDEM
 author: rbowen
-tags: RDO, openstack, FOSDEM, CentOS
+tags: RDO openstack FOSDEM CentOS
 date: 2016-02-22 09:24:19 EST
 published: true
 comments: true

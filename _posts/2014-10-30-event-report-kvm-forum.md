@@ -2,8 +2,7 @@
 title: 'Event Report: Tracing Summit & KVM Forum'
 author: kchamarthy
 date: 2014-10-30 14:28:08 UTC
-tags: oVirt, KVM, KVM Summit, LinuxCon, Linux Foundation, libvirt, virtualization,
-  cloud, CloudOpen, Linux
+tags: oVirt KVM KVM Summit LinuxCon Linux Foundation libvirt virtualization cloud CloudOpen Linux
 comments: true
 published: true
 ---

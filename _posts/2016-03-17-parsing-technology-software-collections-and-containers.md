@@ -1,7 +1,7 @@
 ---
 title: "Parsing Technology: Software Collections and Containers"
 date: 2016-03-17 13:00 UTC
-tags: containers, software collections, howto
+tags: containers software collections howto
 author: bkp
 published: true
 comments: true

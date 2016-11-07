@@ -2,7 +2,7 @@
 title: RDO at the CentOS Dojo
 author: rbowen
 date: 2015-01-30 14:37:08 UTC
-tags: CentOS, Dojo, RDO, OpenStack, FOSDEM
+tags: CentOS Dojo RDO OpenStack FOSDEM
 comments: true
 published: true
 ---

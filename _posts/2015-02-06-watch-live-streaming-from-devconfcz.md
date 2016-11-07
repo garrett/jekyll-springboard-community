@@ -2,7 +2,7 @@
 title: 'Watch Live Streaming from DevConfCZ '
 author: rendsley
 date: 2015-02-06 09:58:02 UTC
-tags: DevConf, Atomic, RHEL, Security, DevOps, Agile, Fedora, Docker
+tags: DevConf Atomic RHEL Security DevOps Agile Fedora Docker
 comments: true
 published: true
 ---

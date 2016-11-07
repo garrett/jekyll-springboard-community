@@ -1,7 +1,7 @@
 ---
 title: oVirt Rolls Into FOSDEM
 date: 2016-02-25 18:05 UTC
-tags: oVirt, FOSDEM, events
+tags: oVirt FOSDEM events
 author: mikey
 published: true
 comments: true

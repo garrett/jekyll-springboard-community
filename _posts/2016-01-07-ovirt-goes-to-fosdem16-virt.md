@@ -2,7 +2,7 @@
 title: oVirt Goes to FOSDEM16
 date: 2016-01-07 15:17 UTC
 author: mikey
-tags: oVirt, FOSDEM, events
+tags: oVirt FOSDEM events
 comments: true
 published: true
 ---

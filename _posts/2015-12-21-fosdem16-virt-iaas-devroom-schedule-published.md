@@ -2,7 +2,7 @@
 title: FOSDEM16 Virt & IaaS DevRoom Schedule Published
 date: 2015-12-21 21:55 UTC
 author: mikey
-tags: FOSDEM, community, events
+tags: FOSDEM community events
 comments: true
 published: true
 ---

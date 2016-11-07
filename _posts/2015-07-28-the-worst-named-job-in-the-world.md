@@ -2,7 +2,7 @@
 title: The Worst-Named Job In The World
 author: bkp
 date: 2015-07-28 22:05 UTC
-tags: RDO, Project Atomic, OSCON, cloud
+tags: RDO Project Atomic OSCON cloud
 comments: true
 published: true
 ---

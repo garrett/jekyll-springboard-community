@@ -2,7 +2,7 @@
 title: Ceph Launches New Community Advisory Board
 date: 2015-10-27 12:00 UTC
 author: bkp
-tags: Ceph, community, Governance
+tags: Ceph community Governance
 comments: true
 published: true
 ---

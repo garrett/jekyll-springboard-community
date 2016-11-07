@@ -2,7 +2,7 @@
 title: Forum Management &ne; Community Management
 date: 2016-06-08 14:12 UTC
 author: bkp
-tags: community, open source, Summit
+tags: community open source Summit
 published: true
 comments: true
 ---

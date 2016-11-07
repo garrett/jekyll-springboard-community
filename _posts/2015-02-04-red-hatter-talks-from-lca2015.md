@@ -2,8 +2,7 @@
 title: Red Hatter Talk Videos from LCA 2015
 author: thildred
 date: 2015-02-04 09:35:52 UTC
-tags: cloud, containers, Docker, kubernetes, OpenStack, Heat, PaaS, programming, Beaker,
-  documentation, FreeIPA, Displayport MST
+tags: cloud containers Docker kubernetes OpenStack Heat PaaS programming Beaker documentation FreeIPA Displayport MST
 comments: true
 published: true
 ---

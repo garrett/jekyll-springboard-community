@@ -2,7 +2,7 @@
 title: Lies, Damned Lies, And Downloads
 author: misc
 date: 2015-09-02 13:42 UTC
-tags: community, metrics
+tags: community metrics
 comments: true
 published: true
 ---

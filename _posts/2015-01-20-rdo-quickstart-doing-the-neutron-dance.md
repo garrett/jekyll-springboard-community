@@ -2,7 +2,7 @@
 title: 'RDO Quickstart: Doing the Neutron Dance'
 author: jbrooks
 date: 2015-01-20 17:34:01 UTC
-tags: RDO, Openstack, CentOS, Fedora, HowTo
+tags: RDO Openstack CentOS Fedora HowTo
 comments: true
 published: true
 ---

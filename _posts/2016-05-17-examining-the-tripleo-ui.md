@@ -2,7 +2,7 @@
 title: Examining the TripleO UI
 date: 2016-05-17 17:29 UTC
 author: bkp
-tags: RDO, TripleO, video
+tags: RDO TripleO video
 published: true
 comments: true
 ---

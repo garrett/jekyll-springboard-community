@@ -2,7 +2,7 @@
 title: Gluster Takes Its Show on the Road
 date: 2016-02-22 20:05 UTC
 author: ndevos
-tags: events, Gluster
+tags: events Gluster
 published: true
 comments: true
 ---

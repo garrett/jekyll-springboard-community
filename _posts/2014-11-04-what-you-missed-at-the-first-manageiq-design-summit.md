@@ -2,8 +2,7 @@
 title: 'Looking Back at the First ManageIQ Design Summit '
 author: rendsley
 date: 2014-11-04 22:24:03 UTC
-tags: ManageIQ, Booz Allen, Foreman, Anand, Botvinnik, NFV, Cloud, Virtualization,
-  Rails, Ruby
+tags: ManageIQ Booz Allen Foreman Anand Botvinnik NFV Cloud Virtualization Rails Ruby
 published: true
 comments: true
 ---

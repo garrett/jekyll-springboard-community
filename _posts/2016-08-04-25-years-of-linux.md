@@ -2,7 +2,7 @@
 title: 25 Years of Linux
 date: 2016-08-04 13:21 UTC
 author: bkp
-tags: Linux, open source, operating system
+tags: Linux open source operating system
 published: true
 comments: true
 ---

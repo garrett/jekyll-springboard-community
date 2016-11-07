@@ -2,7 +2,7 @@
 title: Open Source Is Just Another Way of Doing Good Business
 author: bkp
 date: 2014-12-16 15:22:37 UTC
-tags: Linux, open source, data, big data, software, Hortonworks, Cloudera, Cask
+tags: Linux open source data big data software Hortonworks Cloudera Cask
 comments: true
 published: true
 ---

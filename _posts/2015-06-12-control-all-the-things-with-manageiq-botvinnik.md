@@ -2,7 +2,7 @@
 title: Control All the Things with ManageIQ Botvinnik
 author: johnmark
 date: 2015-06-12 15:46:38 UTC
-tags: manageiq, botvinnik, release, cloud management
+tags: manageiq botvinnik release cloud management
 comments: true
 published: true
 ---

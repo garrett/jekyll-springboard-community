@@ -2,7 +2,7 @@
 title: A Celebration of Language Community Work
 date: 2016-01-11 21:04 UTC
 author: rranjan
-tags: events, FUEL, Localization
+tags: events FUEL Localization
 comments: true
 published: true
 ---

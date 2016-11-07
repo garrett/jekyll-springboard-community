@@ -2,7 +2,7 @@
 title: Gluster and oVirt Test Days Coming Up
 author: jbrooks
 date: 2014-01-16 01:04 UTC
-tags: oVirt, Gluster
+tags: oVirt Gluster
 comments: true
 published: true
 ---

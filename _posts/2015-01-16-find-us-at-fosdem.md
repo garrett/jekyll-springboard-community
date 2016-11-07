@@ -2,8 +2,7 @@
 title: Find Us at FOSDEM
 author: rendsley
 date: 2015-01-16 20:23:13 UTC
-tags: FOSDEM, CentOS, Xen, GlusterFS, Gluster, Ceph, oVirt, Docker, containers, ManageIQ,
-  cloud, virtualization
+tags: FOSDEM CentOS Xen GlusterFS Gluster Ceph oVirt Docker containers ManageIQ cloud virtualization
 comments: true
 published: true
 ---

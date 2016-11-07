@@ -2,7 +2,7 @@
 title: RDO Interview&mdash;Cinder in Liberty
 date: 2015-11-09 17:15 UTC
 author: rbowen
-tags: RDO, interview, OpenStack, Liberty
+tags: RDO interview OpenStack Liberty
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: GNOME Community Converges For GUADEC
 author: shaunm
 date: 2015-07-30 19:44 UTC
-tags: GNOME, conferences
+tags: GNOME conferences
 comments: false
 published: true
 ---

@@ -2,7 +2,7 @@
 title: What Is a Community Manager's Goal?
 date: 2015-10-28 13:36 UTC
 author: dneary
-tags: community, advocacy
+tags: community advocacy
 comments: true
 published: true
 ---

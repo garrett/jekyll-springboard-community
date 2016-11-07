@@ -2,7 +2,7 @@
 title: FOSDEM Notes&mdash;Introducing Lago
 date: 2016-01-18 17:14 UTC
 author: dcaro
-tags: FOSDEM, events, Lago
+tags: FOSDEM events Lago
 published: true
 comments: true
 ---

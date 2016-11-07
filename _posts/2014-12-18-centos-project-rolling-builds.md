@@ -2,7 +2,7 @@
 title: CentOS Project Rolling Builds
 author: quaid
 date: 2014-12-18 18:48:33 UTC
-tags: CentOS, Linux, SIG, Docker
+tags: CentOS Linux SIG Docker
 comments: true
 published: true
 ---

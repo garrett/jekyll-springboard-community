@@ -2,7 +2,7 @@
 title: Embrace that Feeling of Ennui Around Your Stack&mdash;It's Fine
 date: 2016-06-13 16:18 UTC
 author: amye
-tags: community, open source
+tags: community open source
 published: true
 comments: true
 ---

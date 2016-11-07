@@ -2,7 +2,7 @@
 title: Collaboration with CentOS is a Win-Win for oVirt
 author: bkp
 date: 2015-01-19 21:07:11 UTC
-tags: oVirt, CentOS, RHEL, SIG, Fedora, virtualization
+tags: oVirt CentOS RHEL SIG Fedora virtualization
 comments: true
 published: true
 ---

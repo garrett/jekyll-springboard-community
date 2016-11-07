@@ -2,7 +2,7 @@
 title: Event Report--EuroPython 2015
 author: valentina
 date: 2015-08-31 19:00 UTC
-tags: Python, events
+tags: Python events
 comments: true
 published: true
 ---

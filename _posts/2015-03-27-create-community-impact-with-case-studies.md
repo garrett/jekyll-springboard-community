@@ -2,7 +2,7 @@
 title: Create Community Impact With Case Studies
 author: bkp
 date: 2015-03-27 12:32 UTC
-tags: oVirt, FOSSAsia
+tags: oVirt FOSSAsia
 comments: true
 published: true
 ---

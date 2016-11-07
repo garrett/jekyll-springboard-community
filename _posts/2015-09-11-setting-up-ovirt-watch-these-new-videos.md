@@ -2,7 +2,7 @@
 title: Setting Up oVirt? Watch These New Videos
 date: 2015-09-11 14:29 UTC
 author: bkp
-tags: oVirt, tutorials
+tags: oVirt tutorials
 comments: true
 published: true
 ---

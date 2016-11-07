@@ -2,7 +2,7 @@
 title: SELF Discovery
 author: bkp
 date: 2015-06-17 18:10 UTC
-tags: oVirt, OpenStack, Atomic, Fedora, SELF
+tags: oVirt OpenStack Atomic Fedora SELF
 comments: true
 published: true
 ---
