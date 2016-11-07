@@ -1,7 +1,7 @@
 {% assign post = include.post | default: page %}
 {% assign excerpt = include.excerpt | default: false %}
 {% assign link_title = include.link | default: false %}
-
+{% assign author = site.data.authors[post.author] %}
 {% assign separator = site.excerpt_separator | prepend: "<p>" | append: "</p>" %}
 
 <article class="post hentry" id="{{ post.url | replace: "/", "-" }}">
@@ -15,12 +15,21 @@
     </h2>
     <header class="post-meta">
       {% if post.author %}
-        <span class="byline">
-          by
-          <span class="author vcard">
-            {{ post.author }}
+        {% if author %}
+          <span class="byline">
+            by
+            <span class="author vcard">
+              <a href="{{ site.baseurl }}/blog/authors/#{{ post.author }}">{{ author.name }}</a>
+            </span>
           </span>
-        </span>
+        {% else %}
+          <span class="byline">
+            by
+            <span class="author vcard">
+              {{ post.author }}
+            </span>
+          </span>
+        {% endif %}
         –
       {% endif %}
       <time class="published" datetime="{{ post.date | date: "%u" }}">
