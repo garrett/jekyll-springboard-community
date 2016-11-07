@@ -2,7 +2,7 @@
 title: CentOS Community Update -- All About SIGs
 author: quaid
 date: 2014-10-14 14:00:00 UTC
-tags: CentOS, Linux, SIGs
+tags: CentOS Linux SIGs
 comments: true
 published: true
 ---

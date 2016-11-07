@@ -2,7 +2,7 @@
 title: Overcoming the Barrier of Language
 date: 2016-07-14 21:43 UTC
 author: bkp
-tags: community, open source, localization
+tags: community open source localization
 published: true
 comments: true
 ---

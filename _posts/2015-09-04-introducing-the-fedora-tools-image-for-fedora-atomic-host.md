@@ -2,7 +2,7 @@
 title: Introducing the “fedora-tools” Image for Fedora Atomic Host
 author: jeder
 date: 2015-09-04 19:17 UTC
-tags: Fedora, Docker, Atomic, Performance, Debugging
+tags: Fedora Docker Atomic Performance Debugging
 published: true
 comments: false
 ---

@@ -2,7 +2,7 @@
 title: Community Track at Red Hat Summit Call for Proposals
 date: 2016-01-19 23:42 UTC
 author: jzb
-tags: community, events
+tags: community events
 published: true
 comments: true
 ---

@@ -2,7 +2,7 @@
 title: Report from FUEL GILT Conference 2014
 author: rranjan
 date: 2014-12-03 17:34:47 UTC
-tags: FUEL, GILT, event, conference, India, FOSS, localization, language, community,
+tags: FUEL GILT event conference India FOSS localization language community 
   translation
 comments: true
 published: true

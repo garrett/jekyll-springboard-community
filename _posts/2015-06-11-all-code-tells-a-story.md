@@ -2,7 +2,7 @@
 title: All Code Tells A Story
 author: bkp
 date: 2015-06-11 15:15 UTC
-tags: oVirt, OpenStack, cloud, SELF
+tags: oVirt OpenStack cloud SELF
 comments: true
 published: true
 ---

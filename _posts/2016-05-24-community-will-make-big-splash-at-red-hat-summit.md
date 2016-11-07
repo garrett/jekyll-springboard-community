@@ -2,7 +2,7 @@
 title: Community Will Make Big Splash at Red Hat Summit
 date: 2016-05-24 17:50 UTC
 author: bkp
-tags: community, open source, Summit
+tags: community open source Summit
 published: true
 comments: true
 ---

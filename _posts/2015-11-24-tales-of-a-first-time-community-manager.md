@@ -2,7 +2,7 @@
 title: Tales of a First-Time Community Manager
 date: 2015-11-24 16:57 UTC
 author: dneary
-tags: community, advocacy
+tags: community advocacy
 comments: true
 published: true
 ---

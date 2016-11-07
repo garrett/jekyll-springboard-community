@@ -2,7 +2,7 @@
 title: A Red Hat Journey to Linux.conf.au 2016
 date: 2016-02-15 15:25 UTC
 author: sellis
-tags: Linux.conf.au, events
+tags: Linux.conf.au events
 published: true
 comments: true
 ---

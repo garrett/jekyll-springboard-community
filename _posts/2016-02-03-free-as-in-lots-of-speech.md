@@ -2,7 +2,7 @@
 title: Free As In (Lots of) Speech
 date: 2016-02-03 13:33 UTC
 author: bkp
-tags: FOSDEM, events, SCALE
+tags: FOSDEM events SCALE
 published: true
 comments: true
 ---

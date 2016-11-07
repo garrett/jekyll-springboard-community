@@ -2,7 +2,7 @@
 title: Breaking Down Language Barriers in Open Source
 author: rranjan
 date: 2014-11-07 16:56:20 UTC
-tags: GILT, localization, translation, open source, Linux, language
+tags: GILT localization translation open source Linux language
 published: true
 comments: true
 ---

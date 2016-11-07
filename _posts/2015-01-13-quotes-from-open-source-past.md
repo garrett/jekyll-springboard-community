@@ -2,7 +2,7 @@
 title: Quotes from Open Source Past
 author: bkp
 date: 2015-01-13 20:24:14 UTC
-tags: Linux, virtualization, open source
+tags: Linux virtualization open source
 comments: true
 published: true
 ---

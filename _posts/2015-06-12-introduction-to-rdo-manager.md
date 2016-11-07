@@ -2,7 +2,7 @@
 title: Introduction to RDO manager
 author: rbowen
 date: 2015-06-12 16:48:20 UTC
-tags: upstream,podcast,rdo,openstack,rdo-manager
+tags: upstream podcast rdo openstack rdo-manager
 comments: true
 published: true
 ---

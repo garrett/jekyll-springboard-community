@@ -2,7 +2,7 @@
 title: RDO Interviews Flavio Percoco From Zaqar
 author: rbowen
 date: 2015-08-11 16:30 UTC
-tags: upstream,podcast,rdo,openstack,Zaqar,PTL
+tags: upstream podcast rdo openstack Zaqar PTL
 comments: true
 published: true
 ---

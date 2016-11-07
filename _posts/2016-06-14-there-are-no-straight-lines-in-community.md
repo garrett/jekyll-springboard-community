@@ -2,7 +2,7 @@
 title: There Are No Straight Lines in Community
 date: 2016-06-14 14:38 UTC
 author: bkp
-tags: community, open source, Fedora
+tags: community open source Fedora
 published: true
 comments: true
 ---

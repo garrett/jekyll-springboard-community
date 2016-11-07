@@ -2,7 +2,7 @@
 title: Celebrating Software Freedom Day and 30 Years of GNU
 date: 2015-09-18 14:49 UTC
 author: admin
-tags: free software, open source, community, Fedora
+tags: free software open source community Fedora
 comments: true
 published: true
 ---

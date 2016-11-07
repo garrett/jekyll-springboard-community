@@ -2,7 +2,7 @@
 title: Ceph Community Update&mdash;January 2016
 date: 2016-01-15 13:59 UTC
 author: pmcgarry
-tags: Ceph, community
+tags: Ceph community
 published: true
 comments: true
 ---

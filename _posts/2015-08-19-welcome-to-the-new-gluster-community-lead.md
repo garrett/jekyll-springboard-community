@@ -2,7 +2,7 @@
 title: Welcome to the New Gluster Community Lead
 author: bkp
 date: 2015-08-19 07:00 UTC
-tags: Gluster, community, OSAS
+tags: Gluster community OSAS
 comments: true
 published: true
 ---

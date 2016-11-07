@@ -2,7 +2,7 @@
 title: Diversity Value in Tech Goes Beyond Numbers
 date: 2015-11-05 17:41 UTC
 author: acameron
-tags: gender, race, diversity
+tags: gender race diversity
 comments: true
 published: true
 ---

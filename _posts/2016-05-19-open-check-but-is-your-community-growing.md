@@ -2,7 +2,7 @@
 title: Open? Check. But Is Your Community Growing?
 date: 2016-05-19 10:56 UTC
 author: bkp
-tags: community, open source, onboarding
+tags: community open source onboarding
 published: true
 comments: true
 ---

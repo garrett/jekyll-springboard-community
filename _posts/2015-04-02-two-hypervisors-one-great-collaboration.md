@@ -2,7 +2,7 @@
 title: Two Hypervisors, One Great Collaboration
 author: bkp
 date: 2015-04-02 15:15 UTC
-tags: oVirt, Xen, KVM
+tags: oVirt Xen KVM
 comments: true
 published: true
 ---

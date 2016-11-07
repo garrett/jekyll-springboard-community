@@ -2,7 +2,7 @@
 title: Open Cloud Day Rolls Into OSCON 2015
 author: bkp
 date: 2015-07-14 18:35 UTC
-tags: RDO, Project Atomic, OSCON, cloud
+tags: RDO Project Atomic OSCON cloud
 comments: true
 published: true
 ---

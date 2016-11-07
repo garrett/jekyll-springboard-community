@@ -2,7 +2,7 @@
 title: Don't Skeumorph your Containers, Use Microservices Instead
 date: 2015-10-09 12:48 UTC
 author: ghaff
-tags: containers, Project Atomic, OpenShift
+tags: containers Project Atomic OpenShift
 comments: true
 published: true
 ---

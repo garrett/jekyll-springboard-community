@@ -2,7 +2,7 @@
 title: Event Report--LinuxCon NA 2015
 author: bkp
 date: 2015-09-02 17:52 UTC
-tags: LinuxCon, oVirt, KVM, Infrastructure.Next
+tags: LinuxCon oVirt KVM Infrastructure.Next
 comments: true
 published: true
 ---

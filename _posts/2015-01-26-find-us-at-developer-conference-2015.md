@@ -2,7 +2,7 @@
 title: Planning for Developer Conference 2015
 author: rendsley
 date: 2015-01-26 11:09:07 UTC
-tags: oVirt, Fedora, Atomic, SIG, CentOS, Gluster, Ceph, RDO, OpenShift, Cloud
+tags: oVirt Fedora Atomic SIG CentOS Gluster Ceph RDO OpenShift Cloud
 comments: true
 published: true
 ---

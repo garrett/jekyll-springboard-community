@@ -2,7 +2,7 @@
 title: CentOS SIG and Variant Activity
 author: jbrooks
 date: 2014-01-16 18:35 UTC
-tags: oVirt, CentOS, OpenStack, Variant, Cloud
+tags: oVirt CentOS OpenStack Variant Cloud
 comments: true
 published: true
 ---

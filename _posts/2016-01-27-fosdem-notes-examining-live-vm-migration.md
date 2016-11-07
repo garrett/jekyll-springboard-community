@@ -2,7 +2,7 @@
 title: FOSDEM Notes&mdash;Examining Live VM Migration
 date: 2016-01-27 12:39 UTC
 author: bkp
-tags: FOSDEM, events, KVM
+tags: FOSDEM events KVM
 published: true
 comments: true
 ---

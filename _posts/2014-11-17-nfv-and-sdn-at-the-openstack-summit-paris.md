@@ -2,7 +2,7 @@
 title: NFV and SDN at the OpenStack Summit Paris
 author: dneary
 date: 2014-11-17 17:41:55 UTC
-tags: NFV, SDN, OpenStack, OpenStack Summit, video, Nova, OpenDaylight
+tags: NFV SDN OpenStack OpenStack Summit video Nova OpenDaylight
 published: true
 comments: true
 ---

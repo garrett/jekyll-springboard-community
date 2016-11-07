@@ -2,7 +2,7 @@
 title: CentOS Dojo Brussels CfP and Bangalore Dojo Report
 author: rendsley
 date: 2014-12-18 17:26:38 UTC
-tags: CentOS, dojo
+tags: CentOS dojo
 comments: true
 published: true
 ---

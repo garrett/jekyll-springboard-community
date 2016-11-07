@@ -2,7 +2,7 @@
 title: Community Profile--RDO Project
 date: 2015-10-22 14:32 UTC
 author: acameron
-tags: RDO, profile, community
+tags: RDO profile community
 comments: true
 published: true
 ---

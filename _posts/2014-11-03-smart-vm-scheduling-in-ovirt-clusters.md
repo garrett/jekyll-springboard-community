@@ -2,7 +2,7 @@
 title: 'Smart VM Scheduling in oVirt Clusters '
 author: msivak
 date: 2014-11-03 16:51:05 UTC
-tags: oVirt, clusters, virtualization
+tags: oVirt clusters virtualization
 comments: true
 published: true
 ---

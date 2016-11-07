@@ -2,7 +2,7 @@
 title: Happy Birthday, Internet
 date: 2015-10-29 11:55 UTC
 author: bkp
-tags: community, Linux, open source, open standards
+tags: community Linux open source open standards
 comments: true
 published: true
 ---

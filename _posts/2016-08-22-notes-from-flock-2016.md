@@ -2,7 +2,7 @@
 title: Notes from Flock 2016
 date: 2016-08-22 10:09 UTC
 author: jzb
-tags: Fedora, community, events
+tags: Fedora community events
 published: true
 comments: true
 ---

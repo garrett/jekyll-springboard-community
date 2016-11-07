@@ -2,7 +2,7 @@
 title: Managing the World of the Small
 date: 2015-10-20 20:20 UTC
 author: bkp
-tags: community, oVirt, RDO, Gluster, ManageIQ
+tags: community oVirt RDO Gluster ManageIQ
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: Fedora 21 Makes Headlines
 author: rendsley
 date: 2014-12-11 17:07:42 UTC
-tags: Fedora, cloud, Atomic, containers, server, news, Docker
+tags: Fedora cloud Atomic containers server news Docker
 comments: true
 published: true
 ---

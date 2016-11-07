@@ -2,7 +2,7 @@
 title: Rebooting OpenStack Ceilometer with Gnocci
 author: rbowen
 date: 2015-02-10 21:12:33 UTC
-tags: RDO, OpenStack, Ceilometer, hangout, Gnocci
+tags: RDO OpenStack Ceilometer hangout Gnocci
 comments: true
 published: true
 ---

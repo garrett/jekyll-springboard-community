@@ -2,7 +2,7 @@
 title: 'Upstream First: Turning OpenStack into an NFV platform'
 author: dneary
 date: 2015-03-02 16:03:51 UTC
-tags: Red Hat, NFV, Virtualization, Linux Foundation, OPNFV, Telecommunications, open
+tags: Red Hat NFV Virtualization Linux Foundation OPNFV Telecommunications open
   source
 comments: true
 published: true

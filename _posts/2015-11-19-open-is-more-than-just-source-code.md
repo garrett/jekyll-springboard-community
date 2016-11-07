@@ -2,7 +2,7 @@
 title: Open Is More Than Just Source Code
 date: 2015-11-19 17:25 UTC
 author: bkp
-tags: community, open source, open standards, open data
+tags: community open source open standards open data
 comments: true
 published: true
 ---

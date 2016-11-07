@@ -2,7 +2,7 @@
 title: Communities That Aren't
 date: 2016-06-16 13:13 UTC
 author: amye
-tags: community, open source, communication
+tags: community open source communication
 published: true
 comments: true
 ---

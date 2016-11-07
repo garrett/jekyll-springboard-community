@@ -2,7 +2,7 @@
 title: RDO, Gluster, oVirt Test Days this Month, and Thoughts on Fedora.next
 author: jbrooks
 date: 2014-02-03 22:42 UTC
-tags: test day, Gluster, oVirt, RDO, OpenStack, Fedora
+tags: test day Gluster oVirt RDO OpenStack Fedora
 comments: true
 published: true
 ---

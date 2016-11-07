@@ -2,7 +2,7 @@
 title: Open Branding for Open Source Projects
 date: 2016-04-28 14:31 UTC
 author: bkp
-tags: OSAS, RDO, community, Gluster, Project Atomic, Ceph, Fedora, oVirt
+tags: OSAS RDO community Gluster Project Atomic Ceph Fedora oVirt
 published: true
 comments: true
 ---

@@ -2,8 +2,7 @@
 title: 'LISA ''14: Our Talks, BoFs, a CentOS Dojo, and in the Expo & Lab '
 author: bkp
 date: 2014-11-05 19:49:15 UTC
-tags: Docker, oVirt, CentOS, Project Atomic, USENIX, LISA, devops, sys admin, dojo,
-  Linux, cloud, containers
+tags: Docker oVirt CentOS Project Atomic USENIX LISA devops sys admin dojo Linux cloud containers
 published: true
 comments: true
 ---

@@ -2,7 +2,7 @@
 title: FOSSAsia Opens Doors For Many Open Source Projects
 author: bkp
 date: 2015-03-23 16:52 UTC
-tags: oVirt, FOSSAsia
+tags: oVirt FOSSAsia
 comments: true
 published: true
 ---

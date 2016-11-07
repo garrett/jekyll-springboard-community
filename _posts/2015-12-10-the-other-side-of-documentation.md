@@ -2,7 +2,7 @@
 title: The Other Side of Documentation
 date: 2015-12-10 19:19 UTC
 author: bkp
-tags: community, open source, documentation
+tags: community open source documentation
 comments: true
 published: true
 ---
