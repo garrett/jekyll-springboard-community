@@ -2,8 +2,7 @@
 title: Find Us at the Linux Foundation Collaboration Summit
 author: rendsley
 date: 2015-02-03 16:30:02 UTC
-tags: Linux Foundation, Collaboration Summit, conference, cloud, networking, open
-  source, Linux, gnu, ftrace
+tags: Linux Foundation Collaboration Summit conference cloud networking open source Linux gnu ftrace
 comments: true
 published: true
 ---

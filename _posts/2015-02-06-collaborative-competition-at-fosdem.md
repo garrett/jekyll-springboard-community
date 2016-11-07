@@ -2,7 +2,7 @@
 title: Collaborative Competition at FOSDEM
 author: bkp
 date: 2015-02-06 09:15:04 UTC
-tags: OpenStack, oVirt, RDO, FOSDEM, virtualization, FLOSS, Puppet, Gerrit, Gluster
+tags: OpenStack oVirt RDO FOSDEM virtualization FLOSS Puppet Gerrit Gluster
 comments: true
 published: true
 ---

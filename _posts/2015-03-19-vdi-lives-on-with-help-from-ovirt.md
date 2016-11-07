@@ -2,7 +2,7 @@
 title: VDI Lives On with Help from oVirt
 author: bkp
 date: 2015-03-19 19:00:00 UTC
-tags: oVirt, VDI, virtualization
+tags: oVirt VDI virtualization
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: Hierarchy in Open Source
 date: 2016-05-20 15:12 UTC
 author: bkp
-tags: community, open source, governance
+tags: community open source governance
 published: true
 comments: true
 ---

@@ -2,7 +2,7 @@
 title: ManageIQ at OpenStack Summit
 author: johnmark
 date: 2015-05-12 17:44:25 UTC
-tags: manageiq, openstack, events
+tags: manageiq openstack events
 comments: true
 published: true
 ---

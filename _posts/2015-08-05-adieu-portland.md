@@ -2,7 +2,7 @@
 title: Adieu, Portland!
 author: bkp
 date: 2015-08-05 16:41 UTC
-tags: OSCON, conferences
+tags: OSCON conferences
 comments: true
 published: true
 ---

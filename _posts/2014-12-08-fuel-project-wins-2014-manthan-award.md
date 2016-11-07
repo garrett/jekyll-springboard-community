@@ -2,7 +2,7 @@
 title: 'FUEL Project Wins 2014 Manthan Award '
 author: rendsley
 date: 2014-12-08 21:52:57 UTC
-tags: FUEL, community, translation, documentation, localization, award
+tags: FUEL community translation documentation localization award
 comments: true
 published: true
 ---

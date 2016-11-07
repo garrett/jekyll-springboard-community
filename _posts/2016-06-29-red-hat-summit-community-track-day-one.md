@@ -2,7 +2,7 @@
 title: Red Hat Summit Community Track Day One
 date: 2016-06-29 00:24 UTC
 author: jzb
-tags: community, open source, Summit
+tags: community open source Summit
 published: true
 comments: true
 ---

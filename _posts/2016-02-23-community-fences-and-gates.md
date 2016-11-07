@@ -2,7 +2,7 @@
 title: Community Fences and Gates
 date: 2016-02-23 15:02 UTC
 author: bkp
-tags: community, documentation
+tags: community documentation
 published: true
 comments: true
 ---

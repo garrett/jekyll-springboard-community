@@ -2,7 +2,7 @@
 title: Guidelines For Announcing Software Releases
 date: 2015-12-14 15:44 UTC
 author: bkp
-tags: community, open source, software release
+tags: community open source software release
 comments: true
 published: true
 ---

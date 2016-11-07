@@ -2,7 +2,7 @@
 title: 'Fedora 21: Fedora Goes Atomic'
 author: jbrooks
 date: 2014-12-10 16:54:23 UTC
-tags: Atomic, Docker, Fedora, Kubernetes, cloud, containers, Kolla
+tags: Atomic Docker Fedora Kubernetes cloud containers Kolla
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: Event Report--PyCon Australia 2015
 author: admin
 date: 2015-08-20 21:47 UTC
-tags: Python,events
+tags: Python events
 comments: true
 published: true
 ---

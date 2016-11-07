@@ -2,7 +2,7 @@
 title: Red Hat Joins the OPNFV Project as Platinum Founding Member
 author: dneary
 date: 2014-09-30 16:27:00.000000000 Z
-tags: Red Hat, NFV, Virtualization, Linux Foundation, OPNFV, Telecommunications
+tags: Red Hat NFV Virtualization Linux Foundation OPNFV Telecommunications
 comments: true
 published: true
 ---

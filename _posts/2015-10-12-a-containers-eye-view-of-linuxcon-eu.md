@@ -2,7 +2,7 @@
 title: A Containers-Eye View of LinuxCon EU
 date: 2015-10-12 15:31 UTC
 author: bex
-tags: Atomic, atomicapp, LinuxCon, linuxcon-europe, containers
+tags: Atomic atomicapp LinuxCon linuxcon-europe containers
 comments: true
 published: true
 ---

@@ -2,7 +2,7 @@
 title: Community Central Demos Upstream Awesome at Summit 2015
 author: bkp
 date: 2015-07-07 19:26 UTC
-tags: Summit, OSAS
+tags: Summit OSAS
 comments: true
 published: true
 ---

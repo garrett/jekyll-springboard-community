@@ -2,7 +2,7 @@
 title: How I Became an Ambassador for Open Source
 date: 2016-03-30 19:10 UTC
 author: whuiren
-tags: Fedora, advocacy, community
+tags: Fedora advocacy community
 published: true
 comments: true
 ---

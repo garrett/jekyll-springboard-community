@@ -2,7 +2,7 @@
 title: OpenStack Summit 2014 RDO Report
 author: rbowen
 date: 2014-11-13 15:53:33 UTC
-tags: RDO, OpenStack, OpenStack Summit, Kilo, Juno, RDO community
+tags: RDO OpenStack OpenStack Summit Kilo Juno RDO community
 published: true
 comments: true
 ---

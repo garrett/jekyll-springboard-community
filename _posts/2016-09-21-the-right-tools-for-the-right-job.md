@@ -2,7 +2,7 @@
 title: The Right Tools for the Right Job
 date: 2016-09-21 11:01 UTC
 author: bkp
-tags: open source, development, education
+tags: open source development education
 published: true
 comments: true
 ---

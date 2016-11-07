@@ -2,7 +2,7 @@
 title: Welcome to the New oVirt Community Lead
 date: 2015-09-17 12:33 UTC
 author: bkp
-tags: oVirt, community
+tags: oVirt community
 comments: true
 published: true
 ---

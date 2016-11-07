@@ -2,7 +2,7 @@
 title: Avoid Shellshock and the Bash Plague with ManageIQ
 author: johnmark
 date: 2014-09-29 14:42:00.000000000 Z
-tags: shellshock, bash plague, security, policy engine, fleecing, smart state analysis
+tags: shellshock bash plague security policy engine fleecing smart state analysis
 comments: true
 published: true
 ---

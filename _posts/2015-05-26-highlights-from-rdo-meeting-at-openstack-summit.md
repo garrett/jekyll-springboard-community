@@ -2,7 +2,7 @@
 title: Highlights From RDO Meeting at OpenStack Summit
 author: rbowen
 date: 2015-05-26 19:29:33 UTC
-tags: RDO, OpenStack Summit
+tags: RDO OpenStack Summit
 comments: true
 published: true
 ---

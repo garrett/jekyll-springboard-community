@@ -2,7 +2,7 @@
 title: Introducing the OSAS Community Dashboard
 date: 2015-10-13 14:47 UTC
 author: jzb
-tags: community, oVirt, RDO, Gluster, ManageIQ
+tags: community oVirt RDO Gluster ManageIQ
 comments: true
 published: true
 ---

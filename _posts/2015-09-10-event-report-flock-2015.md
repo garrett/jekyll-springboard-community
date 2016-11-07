@@ -2,7 +2,7 @@
 title: Event Report--Flock 2015
 date: 2015-09-10 19:29 UTC
 author: acameron
-tags: Fedora, Flock, events
+tags: Fedora Flock events
 comments: true
 published: true
 ---

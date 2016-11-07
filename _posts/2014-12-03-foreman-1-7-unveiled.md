@@ -2,7 +2,7 @@
 title: Foreman 1.7 Rolls Out
 author: dcleal
 date: 2014-12-03 18:24:06 UTC
-tags: Foreman, systems management, Puppet, configuration, sys admin, networking
+tags: Foreman systems management Puppet configuration sys admin networking
 comments: true
 published: true
 ---

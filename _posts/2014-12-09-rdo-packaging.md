@@ -2,7 +2,7 @@
 title: RDO Packaging
 author: rbowen
 date: 2014-12-09 22:16:21 UTC
-tags: RDO, CentOS, Fedora, Red Hat Enterprise Linux, OpenStack
+tags: RDO CentOS Fedora Red Hat Enterprise Linux OpenStack
 comments: true
 published: true
 ---

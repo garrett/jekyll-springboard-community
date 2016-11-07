@@ -2,7 +2,7 @@
 title: 'oVirt Dockerized: Part 2'
 author: mgoldboim
 date: 2014-10-27 22:39:49.000000000 Z
-tags: oVirt, Docker, container, virtualization, Linux
+tags: oVirt Docker container virtualization Linux
 published: true
 comments: true
 ---

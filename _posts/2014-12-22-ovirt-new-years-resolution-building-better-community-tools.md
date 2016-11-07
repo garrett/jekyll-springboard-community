@@ -2,7 +2,7 @@
 title: " oVirt New Year's Resolution: Building Better Community Tools"
 author: bkp
 date: 2014-12-22 21:23:05 UTC
-tags: oVirt, documentation, community, Docker, Project Atomic, CentOS
+tags: oVirt documentation community Docker Project Atomic CentOS
 comments: true
 published: true
 ---

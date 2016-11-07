@@ -2,7 +2,7 @@
 title: The Next Generation
 date: 2016-08-30 11:19 UTC
 author: bkp
-tags: open source, community, education
+tags: open source community education
 published: true
 comments: true
 ---

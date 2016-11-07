@@ -2,7 +2,7 @@
 title: How to Run a FOSDEM Devroom
 author: jzb
 date: 2015-02-03 15:49:31 UTC
-tags: FOSDEM, virtualization, devroom, conference, IaaS, containers
+tags: FOSDEM virtualization devroom conference IaaS containers
 comments: true
 published: true
 ---

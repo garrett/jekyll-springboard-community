@@ -2,7 +2,7 @@
 title: Swimming Upstream
 author: rbowen
 date: 2015-01-21 22:12:27 UTC
-tags: RDO, CentOS, Fedora, OpenStack, FOSDEM, cloud, SIG
+tags: RDO CentOS Fedora OpenStack FOSDEM cloud SIG
 comments: true
 published: true
 ---

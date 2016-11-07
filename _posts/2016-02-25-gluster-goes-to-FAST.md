@@ -2,7 +2,7 @@
 title: Gluster Goes to FAST
 date: 2016-02-25 18:27 UTC
 author: amye
-tags: events, Gluster, FAST
+tags: events Gluster FAST
 published: true
 comments: true
 ---

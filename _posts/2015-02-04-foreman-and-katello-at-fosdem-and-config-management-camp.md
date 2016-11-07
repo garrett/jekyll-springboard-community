@@ -2,7 +2,7 @@
 title: Foreman and Katello at FOSDEM and Config Management Camp
 author: bkearney
 date: 2015-02-04 19:33:40 UTC
-tags: Satellite, Foreman, FOSDEM, Config Management Camp, configuration, containers,
+tags: Satellite Foreman FOSDEM Config Management Camp configuration containers 
   Docker
 comments: true
 published: true

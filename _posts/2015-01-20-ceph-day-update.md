@@ -2,7 +2,7 @@
 title: Ceph Day Update
 author: pmcgarry
 date: 2015-01-20 17:18:07 UTC
-tags: Ceph, Ceph Day, YouTube, CephFS, filesystem, storage, video
+tags: Ceph Ceph Day YouTube CephFS filesystem storage video
 comments: true
 published: true
 ---

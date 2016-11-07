@@ -2,7 +2,7 @@
 title: Welcome to the New Project Atomic Community Lead
 date: 2016-01-12 13:53 UTC
 author: bkp
-tags: Project Atomic, community, OSAS
+tags: Project Atomic community OSAS
 comments: true
 published: true
 ---

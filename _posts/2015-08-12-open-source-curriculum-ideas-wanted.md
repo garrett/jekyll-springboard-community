@@ -2,7 +2,7 @@
 title: Open Source Curriculum Ideas Wanted
 author: quaid
 date: 2015-08-12 13:29 UTC
-tags: education,fabrication
+tags: education fabrication
 comments: true
 published: true
 ---

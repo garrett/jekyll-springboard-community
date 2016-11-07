@@ -2,8 +2,7 @@
 title: Report from New Directions in Operating Systems Conference
 author: misc
 date: 2014-12-01 15:20:24 UTC
-tags: 'Project Atomic, operating system, conference, rumprun, DragonFlyBSD, BSD, CoreOS,
-  Puppet, CentOS, '
+tags: Project Atomic operating system conference rumprun DragonFlyBSD BSD CoreOS Puppet CentOS
 published: true
 comments: true
 ---

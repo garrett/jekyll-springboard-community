@@ -2,7 +2,7 @@
 title: oVirt 3.6 Is Live!
 date: 2015-11-04 14:47 UTC
 author: mikey
-tags: oVirt, releases
+tags: oVirt releases
 comments: true
 published: true
 ---

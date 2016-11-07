@@ -2,7 +2,7 @@
 title: Fedora Council Elections Start Today
 author: jzb
 date: 2014-11-18 16:16:51 UTC
-tags: Fedora, Community, Fedora Council
+tags: Fedora Community Fedora Council
 published: true
 comments: true
 ---

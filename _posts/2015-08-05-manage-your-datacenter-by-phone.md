@@ -2,7 +2,7 @@
 title: Manage Your Datacenter By Phone
 author: bkp
 date: 2015-08-05 15:56 UTC
-tags: oVirt, moVirt
+tags: oVirt moVirt
 comments: true
 published: true
 ---

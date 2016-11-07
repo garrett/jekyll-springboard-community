@@ -2,7 +2,7 @@
 title: A New Release From Fedora
 date: 2016-06-21 16:22 UTC
 author: bkp
-tags: software, releases, Fedora
+tags: software releases Fedora
 published: true
 comments: true
 ---

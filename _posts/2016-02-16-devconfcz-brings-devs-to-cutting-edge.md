@@ -1,7 +1,7 @@
 ---
 title: DevConf.cz Brings Devs to the Cutting Edge
 date: 2016-02-16 18:00 UTC
-tags: events, DevConfCz, DevOps
+tags: events DevConfCz DevOps
 author: bkp
 published: true
 comments: true

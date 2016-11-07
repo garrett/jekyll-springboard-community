@@ -2,7 +2,7 @@
 title: Gearing Up for SCALE13x
 author: rendsley
 date: 2015-02-04 13:23:12 UTC
-tags: OpenStack, Gluster, FOSS, Community, Social Media, Linux, Ceph, Fedora, desktop,
+tags: OpenStack Gluster FOSS Community Social Media Linux Ceph Fedora desktop 
   RHUG
 comments: true
 published: true
