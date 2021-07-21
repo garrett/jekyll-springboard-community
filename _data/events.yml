@@ -1,0 +1,1699 @@
+---
+:RHSummit:
+  name: Red Hat Summit
+  location: Boston, MA
+  start: 2021-05-07
+  end: 2021-05-09
+  tags: ovirt rdo gluster ceph
+  description: <p>Red Hat Summit is for anyone interested in open source. It just
+    so happens our open source solutions power 90% of Fortune 500 companies, and we’d
+    love to show you why.</p> <p>Additional details about the conference are available
+    at <a href="https://www.redhat.com/en/summit/2021">https://www.redhat.com/en/summit/2021</a>.</p>
+:PyDataMiami:
+  name: PyData Miami
+  location: Miami, FL
+  start: 2021-01-09
+  end: 2021-01-11
+  tags:
+  description: '<p>PyData Miami brings together three interconnected communities:
+    users and developers of data analysis tools, as well as researchers creating new
+    analysis methods. The PyData conference series is anchored in open source Python
+    packages such as NumPy, Pandas, and scikit-learn but also includes approaches
+    to data analysis and visualization in other high level numerical languages such
+    as R and Julia.</p> <p>Additional details about the conference are available at
+    <a href="https://pydata.org/miami2021/">https://pydata.org/miami2021/</a></p>'
+:LinuxConfAU:
+  name: Linux.conf.au
+  location: Christchurch, New Zealand
+  start: 2021-01-21
+  end: 2021-01-25
+  tags:
+  description: <p>Themed Linux of Things, the 2021 linux.conf.au will again attract
+    speakers and attendees from across the world to socialise, fraternise, lecture,
+    listen, ask, answer and share with their peers.</p> <p>Additional details about
+    the conference are available at <a href="https://linux.conf.au/">https://linux.conf.au/</a></p>
+:Snowcamp:
+  name: Snowcamp
+  location: Grenoble, France
+  start: 2021-01-23
+  end: 2021-01-26
+  tags:
+  description: <p>A unique conference for devs, ops, and architects.</p> <p>Additional
+    details about the conference are available at <a href="https://snowcamp.io/en/">https://snowcamp.io/en/</a></p>
+:DevOpsDaysNYC:
+  name: DevOpsDays New York City
+  location: New York, NY
+  start: 2021-01-24
+  end: 2021-01-25
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-new-york-city/welcome/">https://www.devopsdays.org/events/2021-new-york-city/welcome/</a></p>
+:DevConfCZ:
+  name: DevConf.cz
+  location: Brno, Czech Republic
+  start: 2021-01-25
+  end: 2021-01-27
+  tags: ovirt rdo
+  description: <p>DevConf.cz (Developer Conference) is a free annual conference for
+    all Linux and JBoss Developers, Admins and Linux users organized by Red Hat Czech
+    Republic in cooperation with the Fedora and JBoss communities.</p> <p>Additional
+    details about the conference are available at <a href="https://devconf.info/cz">https://devconf.info/cz</a></p>
+:CHAOSSconEU:
+  name: CHAOSScon Europe
+  location: Brussels, Belgium
+  start: 2021-02-01
+  end: 2021-02-01
+  tags:
+  description: <p>Meet the CHAOSS community. Learn about metrics and tools used by
+    several open source projects, communities, and engineering teams to track and
+    analyze their development activities, communities health, diversity, risk, and
+    value.</p> <p>Additional details about the conference are available at <a href="https://chaoss.community/chaosscon-2021-eu/">https://chaoss.community/chaosscon-2021-eu/</a></p>
+:CentOSDojoBrussels:
+  name: CentOS Dojo Brussels
+  location: Brussels, Belgium
+  start: 2021-02-01
+  end: 2021-02-01
+  tags: centos
+  description: '<p>The CentOS Dojo is a full day of technical content covering all
+    aspects of the CentOS project.</p> <p>More information is available at: <a href="https://wiki.centos.org/Events/Dojo/Brussels2021">https://wiki.centos.org/Events/Dojo/Brussels2021</a></p>'
+  talks:
+  - title: 'RHEL, Fedora and CentOS: Solving The Penrose Triangle'
+    speaker: Brendan Conoboy
+    start: 2021-02-01 09:30 CET
+    end: 2021-02-01 10:15 CET
+    description: ''
+  - title: CentOS Git infra changes
+    speaker: Fabian Arrotin
+    start: 2021-02-01 09:30 CET
+    end: 2021-02-01 10:15 CET
+    description: ''
+  - title: From regular user to community member
+    speaker: Pablo Greco
+    start: 2021-02-01 10:15 CET
+    end: 2021-02-01 11:00 CET
+    description: ''
+  - title: NFV SIG Introduction and Update
+    speaker: Thomas F Herbert
+    start: 2021-02-01 10:15 CET
+    end: 2021-02-01 11:00 CET
+    description: ''
+  - title: Making SecureBoot less scary
+    speaker: Patrick Uiterwijk
+    start: 2021-02-01 11:30 CET
+    end: 2021-02-01 12:15 CET
+    description: ''
+  - title: Introducing CentOS Community Container Pipeline
+    speaker: Dharmit Shah
+    start: 2021-02-01 11:30 CET
+    end: 2021-02-01 12:15 CET
+    description: ''
+  - title: TBD
+    speaker: TBD
+    start: 2021-02-01 13:30 CET
+    end: 2021-02-01 14:15 CET
+    description: ''
+  - title: Service Assurance Framework - monitoring with low latency
+    speaker: Matthias Runge
+    start: 2021-02-01 13:30 CET
+    end: 2021-02-01 14:15 CET
+    description: ''
+  - title: Give CentOS a try, the easiest way!
+    speaker: Fabiano Fidêncio
+    start: 2021-02-01 14:15 CET
+    end: 2021-02-01 15:00 CET
+    description: ''
+  - title: Building RPMs with Gitlab and Koji
+    speaker: Thomas Oulevey
+    start: 2021-02-01 14:15 CET
+    end: 2021-02-01 15:00 CET
+    description: ''
+  - title: Monitor your CentOS stack with Prometheus
+    speaker: Julien Pivotto
+    start: 2021-02-01 15:30 CET
+    end: 2021-02-01 16:15 CET
+    description: ''
+  - title: From building structures to building infra-structures
+    speaker: Alexandru Calcatinge
+    start: 2021-02-01 15:30 CET
+    end: 2021-02-01 16:15 CET
+    description: ''
+  - title: Troubleshoot Ansible with an Ara over your shoulder
+    speaker: Haïkel Guémar
+    start: 2021-02-01 16:15 CET
+    end: 2021-02-01 17:00 CET
+    description: ''
+  - title: One playbook to rule them all
+    speaker: Till Maas
+    start: 2021-02-01 16:15 CET
+    end: 2021-02-01 17:00 CET
+    description: ''
+:RailGirlsGroningen:
+  name: Rail Girls Groningen
+  location: Groningen, The Netherlands
+  start: 2021-02-01
+  end: 2021-02-02
+  tags:
+  description: <p>You learn to build your very own web application and doing so, you’ll
+    also learn the basics of rails and coding with the help from our coaches.</p>
+    <p>Additional details about the conference are available at <a href="http://railsgirls.com/groningen.html">http://railsgirls.com/groningen.html</a></p>
+:FOSDEM:
+  name: FOSDEM
+  location: Brussels, Belgium
+  start: 2021-02-02
+  end: 2021-02-03
+  tags: ovirt rdo
+  description: <p>FOSDEM is a free event for software developers to meet, share ideas
+    and collaborate.</p> <p>Additional details about the conference are available
+    at <a href="https://fosdem.org/2021/">https://fosdem.org/2021/</a></p>
+:ConfigMgmtCamp:
+  name: Config Management Camp
+  location: Ghent, Belgium
+  start: 2021-02-04
+  end: 2021-02-06
+  tags:
+  description: <p>We’re pleased to announce CfgMgmtCamp 2021, the sixth year and 8th
+    edition. CfgMgmtCamp has evolved beyond pure configuration management, so we are
+    evolving the topics and content of the conference. CfgMgmtCamp wants to bring
+    all infrastructure management tools and principles together to share and learn.</p>
+    <p>Additional details about the conference are available at <a href="https://cfgmgmtcamp.eu/">https://cfgmgmtcamp.eu/</a></p>
+:QuBitBelgrade:
+  name: QuBit Belgrade
+  location: Belgrade, Serbia
+  start: 2021-02-07
+  end: 2021-02-07
+  tags:
+  description: <p>QuBit Cybersecurity Conference strives to bring the latest information
+    to the cyber community and to help spread the word that security matters as Internet
+    and IT tools are now accessible to more than 2 billion people worldwide.</p> <p>Additional
+    details about the conference are available at <a href="https://belgrade.qubitconference.com/">https://belgrade.qubitconference.com/</a></p>
+:RubyConfAU:
+  name: RubyConf AU
+  location: Melbourne, Australia
+  start: 2021-02-07
+  end: 2021-02-09
+  tags:
+  description: <p>Our yearly gathering where we share knowledge about the Ruby programming
+    language, and celebrate the Australian and broader Ruby community.</p> <p>Additional
+    details about the conference are available at <a href="https://www.rubyconf.org.au/2021">https://www.rubyconf.org.au/2021</a></p>
+:XMLPrague:
+  name: XML Prague
+  location: Prague, Czech Republic
+  start: 2021-02-07
+  end: 2021-02-09
+  tags:
+  description: <p>A conference on markup languages and data on the web</p> <p>Additional
+    details about the conference are available at <a href="http://www.xmlprague.cz/">http://www.xmlprague.cz/</a></p>
+:IDCSecurityRoadshow:
+  name: IDC Security Roadshow
+  location: Istanbul, Turkey
+  start: 2021-02-12
+  end: 2021-02-12
+  tags:
+  description: '<p>The modern challenge for information security is the duality of
+    its tasks: How to improve security posture and resource efficiency at the same
+    time? Should legacy systems be protected at the cost of new security technology
+    adoption? What are the boundaries of security responsibility between the company
+    and its employees? What is the impact of legislation and regulations on the organization’s
+    security? Those management-level challenges are reflected in technological challenges:
+    protection of an ever-increasing number of mobile devices, data leak protection
+    in the age of cloud, and big data to name a few. The IDC Security Roadshow 2021
+    will discuss these and many other of today’s and tomorrow’s security challenges.</p>
+    <p>Additional details about the conference are available at <a href="https://idcitsecurity.com/istanbul/">https://idcitsecurity.com/istanbul/</a></p>'
+:PraguePostgreSQLDevDay:
+  name: Prague PostgreSQL Developer Day
+  location: Prague, Czech Republic
+  start: 2021-02-13
+  end: 2021-02-14
+  tags:
+  description: <p>The twelfth year of the Prague PostgreSQL Developers Day conference
+    dedicated to the PostgreSQL database.</p> <p>Additional details about the conference
+    are available at <a href="https://p2d2.cz/">https://p2d2.cz/</a></p>
+:RubyonIce:
+  name: Ruby on Ice
+  location: Tegernsee, Germany
+  start: 2021-02-22
+  end: 2021-02-24
+  tags:
+  description: <p>A conference about Ruby, Rails and related technologies.</p> <p>Additional
+    details about the conference are available at <a href="https://rubyonice.com/">https://rubyonice.com/</a></p>
+:Qcon:
+  name: QCon London
+  location: London, United Kingdom
+  start: 2021-03-04
+  end: 2021-03-08
+  tags:
+  description: <p>QCon London is a conference for senior software engineers and architects
+    on the patterns, practices, and use cases leveraged by the world’s most innovative
+    software shops.</p> <p>Additional details about the conference are available at
+    <a href="https://qconlondon.com/?utm_source=qconferences&amp;utm_medium=web&amp;utm_campaign=qconfheader">https://qconlondon.com/?utm_source=qconferences&amp;utm_medium=web&amp;utm_campaign=qconfheader</a></p>
+:AutoGradeJapan:
+  name: Automotive Grade Linux
+  location: Tokyo, Japan
+  start: 2021-03-05
+  end: 2021-03-06
+  tags:
+  description: <p>The Automotive Grade Linux (AGL) All Member Meeting takes place
+    bi-annually and brings the AGL community together to learn about the latest developments,
+    share best practices and collaborate to drive rapid innovation across the industry.</p>
+    <p>Additional details about the conference are available at <a href="https://events.linuxfoundation.org/events/agl-all-member-meeting-japan/">https://events.linuxfoundation.org/events/agl-all-member-meeting-japan/</a></p>
+:HyperledgerBootCamp:
+  name: Hyperledger Bootcamp
+  location: Hong Kong
+  start: 2021-03-07
+  end: 2021-03-08
+  tags:
+  description: <p>Hyperledger Bootcamp is where we help get community members up to
+    speed on how to contribute. Most of the participants are fairly new and we understand
+    that contributing to your first project can be a be daunting. This process take
+    the fear out of the process. For existing contributors and maintainer, this is
+    the ideal place to recruit more help for your project or group.</p> <p>Additional
+    details about the conference are available at <a href="https://events.linuxfoundation.org/events/hyperledger-bootcamp-hk-2021/">https://events.linuxfoundation.org/events/hyperledger-bootcamp-hk-2021/</a></p>
+:SCaLE:
+  name: SCaLE 17x
+  location: Pasadena, CA
+  start: 2021-03-07
+  end: 2021-03-10
+  tags: ovirt rdo
+  description: <p>SCaLE is the largest community-run open-source and free software
+    conference in North America. It is held annually in the greater Los Angeles area.</p>
+    <p>Additional details about the conference are available at <a href="https://www.socallinuxexpo.org/scale/17x">https://www.socallinuxexpo.org/scale/17x</a></p>
+:DevOpsDaysLA:
+  name: DevOpsDays Los Angeles
+  location: Los Angeles, CA
+  start: 2021-03-08
+  end: 2021-03-08
+  tags:
+  description: <p>DevOps Day LA is a single day event held annually in Southern California.
+    This volunteer organized conference is dedicated to the DevOps community, and
+    professionals who wish to improve the interaction and integration between thee
+    traditional silos of Development and Operations.</p> <p>Additional details about
+    the conference are available at <a href="https://www.devopsdays.org/events/2021-los-angeles/welcome/">https://www.devopsdays.org/events/2021-los-angeles/welcome/</a></p>
+:DPDK:
+  name: DPDK Summit Bangalore
+  location: Bangalore, India
+  start: 2021-03-09
+  end: 2021-03-09
+  tags:
+  description: <p>The agenda will cover the latest developments to the DPDK framework
+    and other related projects such as FD.io, Tungsten Fabric and OpenvSwitch, including
+    plans for future releases by contributors, and will provide an opportunity to
+    hear from DPDK users who have used the framework in their applications.</p> <p>Additional
+    details about the conference are available at <a href="https://www.dpdk.org/event/dpdk-summit-bangalore-2021/">https://www.dpdk.org/event/dpdk-summit-bangalore-2021/</a></p>
+:Educode:
+  name: Educode
+  location: Las Vegas, NV
+  start: 2021-03-11
+  end: 2021-03-15
+  tags:
+  description: <p>Register now for EduCode International and participate in a lasting
+    educational experience.</p> <p>Additional details about the conference are available
+    at <a href="https://www2.iccsafe.org/educode/">https://www2.iccsafe.org/educode/</a></p>
+:OSLeadershipSummit:
+  name: Open Source Leadership Summit
+  location: Half Moon Bay, CA
+  start: 2021-03-12
+  end: 2021-03-14
+  tags:
+  description: <p>The Linux Foundation Open Source Leadership Summit is the premier
+    forum where open source leaders convene to drive digital transformation with open
+    source technologies and learn how to collaboratively manage the largest shared
+    technology investment of our time.</p> <p>Additional details about the conference
+    are available at <a href="https://events.linuxfoundation.org/events/open-source-leadership-summit-2021/">https://events.linuxfoundation.org/events/open-source-leadership-summit-2021/</a></p>
+:PeeringDays:
+  name: Peering Days
+  location: Zagreb, Croatia
+  start: 2021-03-12
+  end: 2021-03-13
+  tags:
+  description: <p>Peering Days is an international conference of experts directed
+    at network engineers, peering coordinators, internet providers, cloud administrators
+    and data centre operators in the Central and Eastern European Region.</p> <p>Additional
+    details about the conference are available at <a href="https://peeringdays.eu/">https://peeringdays.eu/</a></p>
+:FOSSASIASummit:
+  name: FOSSASIA Summit
+  location: Singapore
+  start: 2021-03-14
+  end: 2021-03-17
+  tags:
+  description: <p>Personal Voice Assistants, Blockchain, Cloud and AI for the Open
+    Conversational Web at Asia’s Premier Developer Event.</p> <p>Additional details
+    about the conference are available at <a href="https://2021.fossasia.org/">https://2021.fossasia.org/</a></p>
+:FOSSAsia:
+  name: FOSSAsia
+  location: Singapore, Singapore
+  start: 2021-03-14
+  end: 2021-03-17
+  tags: centos,manageiq,fedora
+  description: '<p>Bringing together an inspiring community across borders and ages
+    to form a better future with Open Technologies and ICT</p> <p>More information
+    is available at: <a href="http://2021.fossasia.org/">http://2021.fossasia.org/</a></p>'
+  talks:
+  - title: Opening Keynote
+    speaker: Harish Pillay
+    start: 2021-03-14 09:00 SST
+    end: 2021-03-14 09:30 SST
+    description: ''
+  - title: Unleashing the power of kubectl
+    speaker: Suraj Narwade
+    start: 2021-03-15 13:00 SST
+    description: ''
+  - title: Openshift 4.0 on Red Hat CoreOS & Enterprise Linux 8
+    speaker: Rushil Sharma
+    start: 2021-03-15 16:00 SST
+    description: ''
+  - title: Product & Project Manager’s DevOps Journey to Continuous Delivery
+    speaker: Ranjith Varakantam
+    start: 2021-03-15 17:30 SST
+    description: ''
+  - title: Using Transtats to ensure package translation completeness
+    speaker: Sundeep Anand
+    start: 2021-03-15 17:40 SST
+    description: ''
+  - title: Exploring the world of Linux Packaging
+    speaker: Parag Nemade
+    start: 2021-03-15 18:10 SST
+    description: ''
+  - title: Dependency Analytics for navigating the complexity of open source components
+    speaker: Aagam Shah, Ravindra Singh Ratnawat
+    start: 2021-03-16 10:00 SST
+    description: ''
+  - title: Manage a community like conducting an orchestra - with a lot of hand waving
+    speaker: Carol Chen
+    start: 2021-03-16 10:30 SST
+    description: ''
+  - title: 'Faster, Cheaper, Leaner: Horizontally Scaling a CI Pipeline'
+    speaker: Yorgos Saslis, Michal Cichra
+    start: 2021-03-16 10:30 SST
+    description: ''
+  - title: Fundamentals of deploying applications to Kubernetes
+    speaker: Graham Dumpleton, Jorge Morales
+    start: 2021-03-16 11:00 SST
+    description: ''
+  - title: Meditation is experiential
+    speaker: Jens Petersen
+    start: 2021-03-16 16:00 SST
+    description: ''
+  - title: Extending Ansible using plugins
+    speaker: Abhijeet Kasurde
+    start: 2021-03-16 17:20 SST
+    description: ''
+  - title: Attacking Email encryption
+    speaker: Huzaifa Sidhpurwala
+    start: 2021-03-16 17:30 SST
+    description: ''
+  - title: Orchestrating and Managing Ansible Automation using ManageIQ
+    speaker: Satyajit Bulage
+    start: 2021-03-16 17:50 SST
+    description: ''
+  - title: Automating Stateful Applications with Kubernetes Operators
+    speaker: Jorge Morales, Graham Dumpleton
+    start: 2021-03-17 10:30 SST
+    description: ''
+  - title: Containerize your primary workstation! - Fedora Silverblue
+    speaker: Sayan Chowdhury
+    start: 2021-03-17 13:25 SST
+    description: ''
+  - title: Fedora CoreOS - best host for your containers
+    speaker: Sinny Kumari
+    start: 2021-03-17 13:50 SST
+    description: ''
+  - title: Flatpak a sandboxing technology
+    speaker: Parag Nemade
+    start: 2021-03-17 15:25 SST
+    description: ''
+:ChemnitzLinuxDays:
+  name: Chemnitzer Linux-Tage
+  location: Chemnitz, Germany
+  start: 2021-03-16
+  end: 2021-03-17
+  tags:
+  description: <p>The Chemnitz Linux Days stand for a cosmopolitan and peaceful communication
+    with each other.</p> <p>Additional details about the conference are available
+    at <a href="https://chemnitzer.linux-tage.de/2021/en">https://chemnitzer.linux-tage.de/2021/en</a></p>
+:JavaLand:
+  name: JavaLand
+  location: Br&uuml;hl, Germany
+  start: 2021-03-19
+  end: 2021-03-21
+  tags:
+  description: <p>Expect an exciting lecture program with international top speakers
+    and plenty of activities directly from the community. The new knowledge can be
+    put directly into practice during the subsequent training day.</p> <p>Additional
+    details about the conference are available at <a href="https://www.javaland.eu/en/home/">https://www.javaland.eu/en/home/</a></p>
+:OFAWorkshop:
+  name: OpenFabrics Alliance Workshop
+  location: Austin, TX
+  start: 2021-03-19
+  end: 2021-03-21
+  tags:
+  description: <p>The OpenFabrics Alliance (OFA) is committed to accelerating the
+    development of high performance fabrics. The annual OFA Workshop, returning this
+    year to Austin, TX, is a premier means of fostering collaboration among those
+    who develop fabrics, deploy fabrics, and create applications that rely on fabrics.
+    It is the only event of its kind where fabric developers and users can discuss
+    emerging fabric technologies, collaborate on future industry requirements, and
+    address problems that exist today.</p> <p>Additional details about the conference
+    are available at <a href="https://www.openfabrics.org/2021-ofa-workshop/">https://www.openfabrics.org/2021-ofa-workshop/</a></p>
+:Netdev:
+  name: Netdev 0x13
+  location: Prague, Czech Republic
+  start: 2021-03-20
+  end: 2021-03-22
+  tags:
+  description: <p>Netdev 0x13, like all the previous netdev conferences, is a conference
+    of the netdev community, by the netdev community, for the netdev community. Linux
+    kernel networking and user space utilization of the interfaces to the Linux kernel
+    networking subsystem are the focus.</p> <p>Additional details about the conference
+    are available at <a href="https://netdevconf.org/0x13/">https://netdevconf.org/0x13/</a></p>
+:gRPC:
+  name: gRPC Conf
+  location: Sunnyvale, CA
+  start: 2021-03-21
+  end: 2021-03-21
+  tags:
+  description: <p>Join key customers, project leads, and contributors that make up
+    the gRPC ecosystem for a full day of talks, demos and case studies. Experts will
+    discuss real-world implementations of gRPC, best practices for developers, and
+    topic expert deep dives. This is a must-attend event for those using gRPC in their
+    applications today as well as those considering gRPC for their enterprise microservices.</p>
+    <p>Additional details about the conference are available at <a href="https://events.linuxfoundation.org/events/grpconf-2021/">https://events.linuxfoundation.org/events/grpconf-2021/</a></p>
+:KubernetesDayIndia:
+  name: Kubernetes Day India
+  location: Bengalaru, India
+  start: 2021-03-23
+  end: 2021-03-23
+  tags:
+  description: <p>Kubernetes Day is a single day, single track event that brings together
+    local and international experts to engage developers interested in Kubernetes
+    and related cloud native technologies. Run by the Cloud Native Computing Foundation,
+    which hosts Kubernetes, the event is targeted at regions with large numbers of
+    developers who cannot necessarily travel to KubeCon + CloudNativeCon events in
+    Europe, China, and North America.</p> <p>Additional details about the conference
+    are available at <a href="https://events.linuxfoundation.org/events/kubernetes-day-india-2021/">https://events.linuxfoundation.org/events/kubernetes-day-india-2021/</a></p>
+:LibrePlanet:
+  name: LibrePlanet
+  location: Boston, MA
+  start: 2021-03-23
+  end: 2021-03-24
+  tags:
+  description: <p>LibrePlanet is an annual conference hosted by the Free Software
+    Foundation for free software enthusiasts and anyone who cares about the intersection
+    of technology and social justice. LibrePlanet brings together software developers,
+    law and policy experts, activists, students and computer users to learn skills,
+    celebrate free software accomplishments, and face challenges to software freedom.
+    Newcomers are always welcome, and LibrePlanet 2021 will feature programming for
+    all ages and experience levels.</p> <p>Additional details about the conference
+    are available at <a href="https://libreplanet.org/2021/">https://libreplanet.org/2021/</a></p>
+:LinuxAudio:
+  name: Linux Audio Conference
+  location: Stanford, CA
+  start: 2021-03-23
+  end: 2021-03-26
+  tags:
+  description: <p>LAC is the international conference about Free/Open-Source Software
+    for music, sound, and other media with GNU/Linux as the main platform.</p> <p>Additional
+    details about the conference are available at <a href="http://lac.linuxaudio.org/2021/">http://lac.linuxaudio.org/2021/</a></p>
+:AllData:
+  name: ALLDATA
+  location: Valencia, Spain
+  start: 2021-03-24
+  end: 2021-03-28
+  tags:
+  description: <p>The Fifth International Conference on Big Data, Small Data, Linked
+    Data and Open Data.</p> <p>Additional details about the conference are available
+    at <a href="https://www.iaria.org/conferences2021/ALLDATA19.html">https://www.iaria.org/conferences2021/ALLDATA19.html</a></p>
+:DevOpsDaysVancouver:
+  name: DevOpsDays Vancouver
+  location: Vancouver, BC
+  start: 2021-03-29
+  end: 2021-03-30
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-vancouver/welcome/">https://www.devopsdays.org/events/2021-vancouver/welcome/</a></p>
+:LinaroConnect:
+  name: Linaro Connect
+  location: Bangkok, Thailand
+  start: 2021-04-01
+  end: 2021-04-05
+  tags:
+  description: <p>Since 2010, Linaro Connect has been the event to attend if you are
+    interested in open source software development for Linux, tools and the various
+    vertical segment ecosystems that use Arm processors. While the event continues
+    to evolve, one thing stays the same – it revolves around engineering and will
+    consist of a mix of industry keynotes, engineering presentations and discussions,
+    and collaborative engineering hacking sessions.</p> <p>Additional details about
+    the conference are available at <a href="https://connect.linaro.org/">https://connect.linaro.org/</a></p>
+:Programming:
+  name: Programming
+  location: Genova, Italy
+  start: 2021-04-01
+  end: 2021-04-04
+  tags:
+  description: <p>The International Conference on the Art, Science, and Engineering
+    of Programming is a new conference focused on programming topics including the
+    experience of programming. We have named it &lt;Programming&gt; for short. &lt;Programming&gt;
+    seeks for papers that advance knowledge of programming on any relevant topic,
+    including programming practice and experience.</p> <p>Additional details about
+    the conference are available at <a href="https://2021.programming-conference.org/">https://2021.programming-conference.org/</a></p>
+:CloudFoundryNA:
+  name: Cloud Foundry North America
+  location: Philadelphia, PA
+  start: 2021-04-02
+  end: 2021-04-04
+  tags:
+  description: <p>Whether you’re a contributor or committer building the platform,
+    or you’re using the platform to attain your business goals, Cloud Foundry North
+    America Summit is where developers, operators, CIOs and other IT professionals
+    go to share best practices and innovate together.</p> <p>Additional details about
+    the conference are available at <a href="https://www.cloudfoundry.org/event/nasummit2021/">https://www.cloudfoundry.org/event/nasummit2021/</a></p>
+:ONS:
+  name: Open Networking Summit North America
+  location: San Jose, CA
+  start: 2021-04-03
+  end: 2021-04-05
+  tags:
+  description: <p>Open Networking Summit is the industry’s premier open networking
+    event, gathering enterprises, service providers and cloud providers across the
+    ecosystem to share learnings, highlight innovation and discuss the future of Open
+    Source Networking, including SDN, NFV, orchestration and the automation of cloud,
+    network, &amp; IoT services.</p> <p>Additional details about the conference are
+    available at <a href="https://events.linuxfoundation.org/events/open-networking-summit-north-america-2021/">https://events.linuxfoundation.org/events/open-networking-summit-north-america-2021/</a></p>
+:CrikeyCon:
+  name: CrikeyCon
+  location: Brisbane, Australia
+  start: 2021-04-06
+  end: 2021-04-07
+  tags:
+  description: <p>CrikeyCon is a community-led two-day conference targeting those
+    with an interest in information security around South-East Queensland and beyond.</p>
+    <p>Additional details about the conference are available at <a href="https://www.crikeycon.com/">https://www.crikeycon.com/</a></p>
+:DrupalCon:
+  name: DrupalCon
+  location: Seattle, WA
+  start: 2021-04-08
+  end: 2021-04-12
+  tags:
+  description: <p>DrupalCon unites experts from around the globe who create ambitious
+    digital experiences.</p> <p>Additional details about the conference are available
+    at <a href="https://events.drupal.org/">https://events.drupal.org/</a></p>
+:DevOpsDaysTokyo:
+  name: DevOpsDays Tokyo
+  location: Tokyo, Japan
+  start: 2021-04-09
+  end: 2021-04-10
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-tokyo/welcome/">https://www.devopsdays.org/events/2021-tokyo/welcome/</a></p>
+:ACCU:
+  name: ACCU
+  location: Bristol, UK
+  start: 2021-04-10
+  end: 2021-04-13
+  tags:
+  description: '<p>Historically, ACCU has a lot of C++ and C content, and is proud
+    of that: ACCU is the foremost annual conference for people interested in C++ and
+    C, at least in and around the UK. But it is not just a C++ and C conference, ACCU
+    is about programming in whatever language people are using, with whatever tools
+    and processes people are using: D, Chapel, Java, Kotlin, C#, F#, Groovy, Rust,
+    Go, Python, Ruby, Lisp, to name just a few programming languages about which there
+    have been sessions at ACCU conferences.</p> <p>Additional details about the conference
+    are available at <a href="https://conference.accu.org/">https://conference.accu.org/</a></p>'
+:DevOpsDaysSaoPaulo:
+  name: DevOpsDays São Paulo
+  location: São Paulo, Brazil
+  start: 2021-04-10
+  end: 2021-04-11
+  tags:
+  description: <p>We will have DevOpsDays back in São Paulo. It will be a great opportunity
+    to share knowledge and stories, socialize, review colleagues, make new friends,
+    learn, teach, and promote our great and growing community.</p> <p>Additional details
+    about the conference are available at <a href="https://www.devopsdays.org/events/2021-sao-paulo/welcome/">https://www.devopsdays.org/events/2021-sao-paulo/welcome/</a></p>
+:DjangoConEurope:
+  name: DjangoCon Europe
+  location: Copenhagen, Denmark
+  start: 2021-04-10
+  end: 2021-04-12
+  tags:
+  description: <p>After a lot of planning, we are happy to announce that we’ll be
+    hosting all you lovely Django people next year!</p> <p>Additional details about
+    the conference are available at <a href="https://2021.djangocon.eu/">https://2021.djangocon.eu/</a></p>
+:QuBitPrague:
+  name: QuBit Prague
+  location: Prague, Czech Republic
+  start: 2021-04-10
+  end: 2021-04-11
+  tags:
+  description: <p>QuBit Cybersecurity Conference strives to bring the latest information
+    to the cyber community and to help spread the word that security matters as Internet
+    and IT tools are now accessible to more than 2 billion people worldwide.</p> <p>Additional
+    details about the conference are available at <a href="https://prague.qubitconference.com/">https://prague.qubitconference.com/</a></p>
+:QConAI:
+  name: QCon.ai
+  location: San Francisco, CA
+  start: 2021-04-15
+  end: 2021-04-17
+  tags:
+  description: <p>QCon.ai is a dedicated AI and machine learning conference for senior
+    software engineers, architects, and technical managers.</p> <p>Additional details
+    about the conference are available at <a href="https://qcon.ai/">https://qcon.ai/</a></p>
+:PocítacveSkole:
+  name: Počítač ve škole
+  location: Nové Město na Moravě, Czech Republic
+  start: 2021-04-16
+  end: 2021-04-18
+  tags:
+  description: <p>Come and be inspired by the new trends and trends in the use of
+    digital technologies in teaching. A lot of lectures, practical workshops and company
+    presentations are waiting for you again.</p> <p>Additional details about the conference
+    are available at <a href="https://www.pocitacveskole.cz/">https://www.pocitacveskole.cz/</a></p>
+:DevoxxFrance:
+  name: Devoxx France
+  location: Paris, France
+  start: 2021-04-17
+  end: 2021-04-19
+  tags:
+  description: '<p>Devoxx France is one of the most important event for developers
+    in France. During three days, Devoxx France offers over 220 presentations, hands
+    on labs, as well as multiple opportunities to meet a very active developer’s community
+    around several topics: Java, alternative JVM languages, Web, Architecture, Big
+    Data, IoT, and Cloud Computing.</p> <p>Additional details about the conference
+    are available at <a href="https://devoxx.fr/">https://devoxx.fr/</a></p>'
+:SeleniumConf:
+  name: SeleniumConf Tokyo
+  location: Tokyo, Japan
+  start: 2021-04-18
+  end: 2021-04-19
+  tags:
+  description: <p>SeleniumConf Tokyo is a two-day conference for test automation professionals
+    on April 18 &amp; 19 preceded by a full day of workshops on April 17. You can
+    look forward to inspiring and insightful talks, in-depth Selenium training workshops,
+    fantastic networking opportunities in the ‘hallway track’, and so much more.</p>
+    <p>Additional details about the conference are available at <a href="https://conf.selenium.jp/">https://conf.selenium.jp/</a></p>
+:DevRelConChina:
+  name: DevRelCon China
+  location: Suzhou Industrial Park, China
+  start: 2021-04-21
+  end: 2021-04-21
+  tags:
+  description: <p>With millions of developers and a booming local software industry,
+    China is at the beginning of its developer relations journey. Speakers from Alibaba,
+    GitHub, Microsoft and other companies both international and local addressed 200
+    attendees at the venue and many more via video link in cities around China.</p>
+    <p>Additional details about the conference are available at <a href="http://www.devrel.cn/">http://www.devrel.cn/</a></p>
+:DevOpsDaysSeattle:
+  name: DevOpsDays Seattle
+  location: Seattle, WA
+  start: 2021-04-23
+  end: 2021-04-24
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-seattle/welcome/">https://www.devopsdays.org/events/2021-seattle/welcome/</a></p>
+:ICST:
+  name: ICST 2021
+  location: Xi'an, China
+  start: 2021-04-24
+  end: 2021-04-26
+  tags:
+  description: <p>International Conference on Software Testing, Verification, and
+    Validation 2021 invites high quality submissions in all areas of software testing,
+    verification, and validation. Papers for the research track should present novel
+    and original work that pushes the state-of-the-art. Case studies and empirical
+    research papers are also welcome.</p> <p>Additional details about the conference
+    are available at <a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=80147&amp;copyownerid=41733">http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=80147&amp;copyownerid=41733</a></p>
+:AIBigDataGlobal:
+  name: AI & Big Data Expo Global
+  location: London, UK
+  start: 2021-04-25
+  end: 2021-04-26
+  tags:
+  description: <p>The AI &amp; Big Data Expo Global is a showcase of next generation
+    technologies and strategies from the world of Artificial Intelligence &amp; Big
+    Data, an opportunity to explore and discover the practical and successful implementation
+    of AI &amp; Big Data in driving forward your business in 2021 and beyond.</p>
+    <p>Additional details about the conference are available at <a href="https://www.ai-expo.net/global/">https://www.ai-expo.net/global/</a></p>
+:LinuxFestNW:
+  name: LinuxFest Northwest
+  location: Bellingham, WA
+  start: 2021-04-26
+  end: 2021-04-28
+  tags:
+  description: <p>LinuxFest Northwest (est. 2000), an annual Open Source event co-produced
+    by Bellingham Linux Users Group and the Information Technology department at BTC.
+    LFNW features presentations and exhibits on free and open source topics, as well
+    as Linux distributions &amp; applications, InfoSec, and privacy; something for
+    everyone from the novice to the professional!</p> <p>Additional details about
+    the conference are available at <a href="https://www.linuxfestnorthwest.org/conferences/2021">https://www.linuxfestnorthwest.org/conferences/2021</a></p>
+:LinuxStorageFS:
+  name: Linux Storage, Filesystem & Memory Management Summit
+  location: San Juan, PR
+  start: 2021-04-30
+  end: 2021-05-02
+  tags:
+  description: <p>The Linux Storage, Filesystem &amp; Memory Management Summit gathers
+    the foremost development and research experts and kernel subsystem maintainers
+    to map out and implement improvements to the Linux filesystem, storage and memory
+    management subsystems that will find their way into the mainline kernel and Linux
+    distributions in the next 24-48 months.</p> <p>Additional details about the conference
+    are available at <a href="https://events.linuxfoundation.org/events/linux-storage-filesystem-mm-summit-2021/">https://events.linuxfoundation.org/events/linux-storage-filesystem-mm-summit-2021/</a></p>
+:PyConUS:
+  name: PyCon US
+  location: Cleveland, OH
+  start: 2021-05-01
+  end: 2021-05-09
+  tags:
+  description: <p>The PyCon 2021 conference, which will take place in Cleveland, is
+    the largest annual gathering for the community using and developing the open-source
+    Python programming language. It is produced and underwritten by the Python Software
+    Foundation, the 501(c)(3) nonprofit organization dedicated to advancing and promoting
+    Python. Through PyCon, the PSF advances its mission of growing the international
+    community of Python programmers.</p> <p>Additional details about the conference
+    are available at <a href="https://us.pycon.org/2021/#!">https://us.pycon.org/2021/#!</a></p>
+:DevOpsDaysAustin:
+  name: DevOpsDays Austin
+  location: Austin, TX
+  start: 2021-05-02
+  end: 2021-05-03
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-austin/welcome/">https://www.devopsdays.org/events/2021-austin/welcome/</a></p>
+:DevOpsDaysDesMoines:
+  name: DevOpsDays Des Moines
+  location: Des Moines, IA
+  start: 2021-05-02
+  end: 2021-05-03
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-des-moines/welcome/">https://www.devopsdays.org/events/2021-des-moines/welcome/</a></p>
+:DevoxxUK:
+  name: Devoxx UK
+  location: London, UK
+  start: 2021-05-08
+  end: 2021-05-10
+  tags:
+  description: <p>Each year the Devoxx Family welcomes over 11,000 developers to events
+    in Belgium, France, UK, Poland, Morocco &amp; now, Ukraine.</p> <p>Devoxx UK will
+    return to London on May 8th – 10th, 2021, and will again welcome brilliant speakers
+    and attendees for the very best developer content and awesome experiences</p>
+    <p>Additional details about the conference are available at <a href="https://www.devoxx.co.uk/">https://www.devoxx.co.uk/</a></p>
+:InfoShare:
+  name: infoShare
+  location: Gdańsk, Portland
+  start: 2021-05-08
+  end: 2021-05-09
+  tags:
+  description: <p>infoShare is where you can share your story and make your ideas
+    happen. Here you will find knowledge and inspiration, form meaningful relations
+    and create a truly innovative technological society.</p> <p>Additional details
+    about the conference are available at <a href="https://infoshare.pl/">https://infoshare.pl/</a></p>
+:csvconf:
+  name: csv,conf,v4
+  location: Portland, OR
+  start: 2021-05-08
+  end: 2021-05-09
+  tags:
+  description: <p>csv,conf brings diverse groups together to discuss data topics,
+    and features stories about data sharing and data analysis from science, journalism,
+    government, and open source.</p> <p>Additional details about the conference are
+    available at <a href="https://csvconf.com/">https://csvconf.com/</a></p>
+:DevOpsDaysSLC:
+  name: DevOpsDays Salt Lake City
+  location: Salt Lake City, UT
+  start: 2021-05-14
+  end: 2021-05-15
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-salt-lake-city/welcome/">https://www.devopsdays.org/events/2021-salt-lake-city/welcome/</a></p>
+:DevOpsDaysZurich:
+  name: DevOpsDays Zurich
+  location: Zurich, Switzerland
+  start: 2021-05-14
+  end: 2021-05-15
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-zurich/welcome/">https://www.devopsdays.org/events/2021-zurich/welcome/</a></p>
+:OSDC:
+  name: Open Source Data Center Conference
+  location: Berlin, Germany
+  start: 2021-05-14
+  end: 2021-05-15
+  tags:
+  description: <p>Innovative strategies, forward-looking developments and new perspectives
+    in dealing with complex data centers are the topics of OSDC.</p> <p>Additional
+    details about the conference are available at <a href="https://osdc.de/">https://osdc.de/</a></p>
+:TEQnation:
+  name: TEQnation
+  location: Maarsen, the Netherlands
+  start: 2021-05-15
+  end: 2021-05-15
+  tags:
+  description: <p>Celebrate the love for Smart Technology and meet like-minded Future
+    Techies. At TEQnation The Future is Smart you can broaden your knowledge at our
+    hands-on labs, hackathons, technical sessions and workshops, which are all focused
+    on the technology of the next era.</p> <p>Additional details about the conference
+    are available at <a href="https://teqnation.nl/">https://teqnation.nl/</a></p>
+:geecon:
+  name: GeeCON
+  location: Prague, Czech Republic
+  start: 2021-05-15
+  end: 2021-05-17
+  tags:
+  description: <p>Java and JVM based technologies, dynamic languages, enterprise architectures,
+    patterns, distributed computing, software craftsmanship, mobile and much more…</p>
+    <p>Additional details about the conference are available at <a href="https://2021.geecon.org/">https://2021.geecon.org/</a></p>
+:DevOpsDaysKiev:
+  name: DevOpsDays Kiev
+  location: Kiev, Ukraine
+  start: 2021-05-17
+  end: 2021-05-18
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-kiev/welcome/">https://www.devopsdays.org/events/2021-kiev/welcome/</a></p>
+:Rfinance:
+  name: R/Finance
+  location: Chicago, IL
+  start: 2021-05-17
+  end: 2021-05-18
+  tags:
+  description: <p>Participants from academia and industry mingle for two days to exchange
+    ideas about current research, best practices and applications. A single-track
+    program permits continued focus on a series of refereed submissions. A lively
+    social program rounds out the event.</p> <p>Additional details about the conference
+    are available at <a href="https://www.rinfinance.com/">https://www.rinfinance.com/</a></p>
+:WikimediaHackathon:
+  name: Wikimedia Hackathon
+  location: Prague, Czech Republic
+  start: 2021-05-17
+  end: 2021-05-19
+  tags:
+  description: <p>The Wikimedia Hackathon is a major event that brings together developers
+    from all around the world to improve the technological infrastructure of Wikipedia,
+    particularly the MediaWiki platform on which it is based, and the Wikimedia code
+    development.</p> <p>Additional details about the conference are available at <a
+    href="https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2021">https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2021</a></p>
+:OSCAL:
+  name: Open Source Conference Albania
+  location: Tirana, Albania
+  start: 2021-05-18
+  end: 2021-05-19
+  tags:
+  description: <p>OSCAL is the annual international Open Source Free Software Conference
+    in Albania dedicated to empowering Software Freedom, Open Knowledge, Free Culture
+    and Decentralization.</p> <p>Additional details about the conference are available
+    at <a href="https://oscal.openlabs.cc/">https://oscal.openlabs.cc/</a></p>
+:Cephalocon:
+  name: Cephalocon
+  location: Barcelona, Spain
+  start: 2021-05-19
+  end: 2021-05-20
+  tags:
+  description: <p>Cephalocon Barcelona aims to bring together more than 800 technologists
+    and adopters from across the globe to showcase Ceph’s history and its future,
+    demonstrate real-world applications, and highlight vendor solutions.</p> <p>Additional
+    details about the conference are available at <a href="https://ceph.com/cephalocon/barcelona-2021/">https://ceph.com/cephalocon/barcelona-2021/</a></p>
+:WritetheDocsPDX:
+  name: Write the Docs Portland
+  location: Portland, OR
+  start: 2021-05-19
+  end: 2021-05-21
+  tags:
+  description: '<p>Write the Docs brings everyone who writes the docs together in
+    the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates,
+    and more. We all have things to learn from each other, and there’s no better way
+    than sitting together and talking.</p> <p>Additional details about the conference
+    are available at <a href="http://www.writethedocs.org/conf/portland/2021/">http://www.writethedocs.org/conf/portland/2021/</a></p>'
+:KubeConEU:
+  name: KubeCon/CloudeNativeCon Europe
+  location: Barcelona, Spain
+  start: 2021-05-20
+  end: 2021-05-23
+  tags:
+  description: <p>The Cloud Native Computing Foundation’s flagship conference gathers
+    adopters and technologists from leading open source and cloud native communities
+    in Barcelona, Spain from May 20-23, 2021. Join Kubernetes, Prometheus, OpenTracing,
+    Fluentd, gRPC, containerd, rkt, CNI, Envoy, Jaeger, Notary, TUF, Vitess, CoreDNS,
+    NATS, Linkerd and Helm as the community gathers for four days to further the education
+    and advancement of cloud native computing.</p> <p>Additional details about the
+    conference are available at <a href="https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2021/">https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2021/</a></p>
+:itSDFI:
+  name: itSDFI
+  location: Brno, Czech Republic
+  start: 2021-05-22
+  end: 2021-05-23
+  tags:
+  description: <p>We are organizer of the annual conference for IT governance itSDFI.
+    Since 2012 experienced IT professionals, CIOs, team leaders from all types of
+    the organization share their experience with modern management of IT.</p> <p>Additional
+    details about the conference are available at <a href="https://www.q4it.eu/en/konference/">https://www.q4it.eu/en/konference/</a></p>
+:PyConLT:
+  name: PyConLT
+  location: Vilnius, Lithuania
+  start: 2021-05-24
+  end: 2021-05-25
+  tags:
+  description: <p>Conference talks, keynotes, sprints, and hackathons about Python.</p>
+    <p>Additional details about the conference are available at <a href="https://www.pycon.lt/2021/">https://www.pycon.lt/2021/</a></p>
+:JBCNConf:
+  name: JBCNConf
+  location: Barcelona, Spain
+  start: 2021-05-27
+  end: 2021-05-29
+  tags:
+  description: <p>Three days to share knowledge and experiences, meet enthusiasts
+    and geeks and learn about new technologies related to the JVM in English.</p>
+    <p>Additional details about the conference are available at <a href="https://www.jbcnconf.com/2021/">https://www.jbcnconf.com/2021/</a></p>
+:PGCon:
+  name: PGCon
+  location: Ottawa, ON
+  start: 2021-05-28
+  end: 2021-05-31
+  tags:
+  description: <p>PGCon is an annual conference for users and developers of PostgreSQL,
+    a leading relational database, which just happens to be open source. PGCon is
+    the place to meet, discuss, build relationships, learn valuable insights, and
+    generally chat about the work you are doing with PostgreSQL. If you want to learn
+    why so many people are moving to PostgreSQL, PGCon will be the place to find out
+    why. Whether you are a casual user or you’ve been working with PostgreSQL for
+    years, PGCon will have something for you.</p> <p>Additional details about the
+    conference are available at <a href="https://www.pgcon.org/2021/">https://www.pgcon.org/2021/</a></p>
+:NordicTestingDays:
+  name: Nordic Testing Days
+  location: Tallinn, Estonia
+  start: 2021-05-29
+  end: 2021-05-31
+  tags:
+  description: <p>Nordic Testing Days is an annual conference primarily aimed at software
+    testers. However, during the recent years we have branched out and also welcome
+    others ranging from programmers to UX specialists, project managers to designers
+    etc. In other words, everyone who is interested in dipping their toes into testing
+    and contributing to smoother software development cycle and quality. We believe
+    this will help diversify learning across the board.</p> <p>Additional details
+    about the conference are available at <a href="https://nordictestingdays.eu/">https://nordictestingdays.eu/</a></p>
+:RigaDevDays:
+  name: Riga DevDays
+  location: Riga, Latvia
+  start: 2021-05-29
+  end: 2021-05-31
+  tags:
+  description: <p>Tech conference and the annual meeting point for developers in Baltic
+    States.</p> <p>Additional details about the conference are available at <a href="https://2021.rigadevdays.lv/">https://2021.rigadevdays.lv/</a></p>
+:ShiftDev:
+  name: Shift Dev
+  location: Split, Croatia
+  start: 2021-05-30
+  end: 2021-05-31
+  tags:
+  description: <p>Shift Dev is a two-day single stage developer event, consisting
+    of a balance of educational and inspirational talks, delivered with a side of
+    workshops and networking events located on the beautiful Mediterranean coast.</p>
+    <p>Additional details about the conference are available at <a href="https://dev.shiftconf.co/">https://dev.shiftconf.co/</a></p>
+:mDevCamp:
+  name: mDevCamp
+  location: Prague, Czech Republic
+  start: 2021-05-30
+  end: 2021-05-31
+  tags:
+  description: <p>mDevCamp 2021 is the largest conference for mobile enthusiasts in
+    Central Europe. The 8th edition will feature world-class speakers, in-depth talks
+    and workshops and great hands-on zones. Come to meet 1000 enthusiasts from all
+    over Europe.</p> <p>Additional details about the conference are available at <a
+    href="https://mdevcamp.eu/">https://mdevcamp.eu/</a></p>
+:Monitorama:
+  name: Monitorama
+  location: Portland, OR
+  start: 2021-06-03
+  end: 2021-06-05
+  tags:
+  description: <p>Join us again to hear talks from industry experts and community
+    leaders discuss the newest approaches in monitoring and observability. Find out
+    which tools and techniques are in use at some of the largest web architectures
+    in the world.</p> <p>Additional details about the conference are available at
+    <a href="http://monitorama.com/">http://monitorama.com/</a></p>
+:OpenExpoEU:
+  name: OpenExpo Europe
+  location: Madrid, Spain
+  start: 2021-06-06
+  end: 2021-06-06
+  tags:
+  description: <p>OpenExpo Europe is the main professional Fair and Congress about
+    Open Source, Free Software and Open World Economy (Open Data and Open Innovation)
+    in Europe.</p> <p>Additional details about the conference are available at <a
+    href="https://openexpoeurope.com/">https://openexpoeurope.com/</a></p>
+:WeAreDevelopers:
+  name: WeAreDevelopers World Congress
+  location: Berlin, Germany
+  start: 2021-06-06
+  end: 2021-06-07
+  tags:
+  description: <p>Behind every amazing tech innovation today are developers – these
+    unique creatures that are able to turn coffee into software, using code as their
+    primary instrument. Since 2015, once a year, on a (hopefully) sunny day, the global
+    community meets at WeAreDevelopers, an event dubbed by many as the “Woodstock
+    of Developers”.</p> <p>Additional details about the conference are available at
+    <a href="https://www.wearedevelopers.com/world-congress/">https://www.wearedevelopers.com/world-congress/</a></p>
+:Velocity:
+  name: Velocity Conference
+  location: San Jose, CA
+  start: 2021-06-10
+  end: 2021-06-13
+  tags:
+  description: <p>Velocity will help you to understand not only the full distributed
+    systems stack, but the nuances of cloud-native systems as well. Plus, you’ll gain
+    the knowledge and expertise to address issues as they arise, and solve them quickly.
+    We’re a community focused on sharing new strategies, tools, architectures, and
+    approaches to help you learn how to build and maintain the fast and reliable systems
+    your organization depends on.</p> <p>Additional details about the conference are
+    available at <a href="https://conferences.oreilly.com/velocity/vl-ca">https://conferences.oreilly.com/velocity/vl-ca</a></p>
+:OW2:
+  name: OW2con
+  location: Paris-Châtillon, France
+  start: 2021-06-12
+  end: 2021-06-13
+  tags:
+  description: <p>Free software was defined a generation ago by the freedom to use,
+    read, modify and redistribute the code. Yet these four simple rules have had the
+    power to change the software industry. What appeared as an efficient techno-legal
+    construct based on generous values of sharing and openness to efficiently collaborate
+    on software development efforts has become open source software, a business model
+    and a vehicle of collaborative innovation. OW2con’19 will concentrate on the many
+    faces of open source software, its journey between values and value.</p> <p>Additional
+    details about the conference are available at <a href="https://www.ow2con.org/view/2021/">https://www.ow2con.org/view/2021/</a></p>
+:rtc:
+  name: Romanian Testing Conference
+  location: Cluj-Napoca, Romania
+  start: 2021-06-12
+  end: 2021-06-14
+  tags:
+  description: <p>We invite you to join us for Romanian Testing Conference 2021, by
+    sharing your experience and thoughts related to this year’s theme “Qualisophy
+    in testing“.</p> <p>Additional details about the conference are available at <a
+    href="https://romaniatesting.ro/">https://romaniatesting.ro/</a></p>
+:BerlinBuzzwords:
+  name: Berlin Buzzwords
+  location: Berlin, Germany
+  start: 2021-06-16
+  end: 2021-06-18
+  tags:
+  description: <p>Berlin Buzzwords is Germany’s most exciting conference on storing,
+    processing, streaming and searching large amounts of digital data. It focuses
+    on open source software projects. The 10th edition of Berlin Buzzwords will be
+    held on June 16-18, 2021 at Kulturbrauerei.</p> <p>Additional details about the
+    conference are available at <a href="https://berlinbuzzwords.de/">https://berlinbuzzwords.de/</a></p>
+:ISCHighPerf:
+  name: ISC High Performance
+  location: Frankfurt, Germany
+  start: 2021-06-16
+  end: 2021-06-20
+  tags:
+  description: <p>The ISC High Performance conference will bring together over 3,500
+    researchers and commercial users, and 160 exhibitors, ready to share their experiences
+    with the latest technology and products of interest to the high performance computing
+    (HPC) community.</p> <p>Additional details about the conference are available
+    at <a href="https://www.isc-hpc.com/">https://www.isc-hpc.com/</a></p>
+:AIBigDataEurope:
+  name: AI & Big Data Expo Europe
+  location: Amesterdam, The Netherlands
+  start: 2021-06-19
+  end: 2021-06-20
+  tags:
+  description: <p>The AI &amp; Big Data Expo Europe is a showcase of next generation
+    technologies and strategies from the world of Artificial Intelligence &amp; Big
+    Data, an opportunity to explore and discover the practical and successful implementation
+    of AI &amp; Big Data in driving forward your business in 2021 and beyond.</p>
+    <p>Additional details about the conference are available at <a href="https://www.ai-expo.net/europe/">https://www.ai-expo.net/europe/</a></p>
+:RailGirlsRotterdam:
+  name: Rail Girls Rotterdam
+  location: Rotterdam, The Netherlands
+  start: 2021-06-20
+  end: 2021-06-20
+  tags:
+  description: <p>You learn to build your very own web application and doing so, you’ll
+    also learn the basics of rails and coding with the help from our coaches.</p>
+    <p>Additional details about the conference are available at <a href="http://railsgirls.com/rotterdam19.html">http://railsgirls.com/rotterdam19.html</a></p>
+:EuRuKoRotterdam:
+  name: EuRuKo Rotterdam
+  location: Rotterdam, The Netherlands
+  start: 2021-06-21
+  end: 2021-06-22
+  tags:
+  description: <p>EuRuKo is the annual European Ruby Conference.</p> <p>Additional
+    details about the conference are available at <a href="https://euruko2021.org/">https://euruko2021.org/</a></p>
+:ContainerDays:
+  name: ContainerDays
+  location: Hamburg, Germany
+  start: 2021-06-24
+  end: 2021-06-26
+  tags:
+  description: '<p>#Microservices, #DistributedApps, #Kubernetes #CloudNative, #CICD,
+    #DevOps, #YouNameIt … Just like the previous years, ContainerDays will be loaded
+    with exciting high-level talks, hands-on workshops and lots of opportunities to
+    meet like-minded container enthusiasts.</p> <p>Additional details about the conference
+    are available at <a href="https://www.containerdays.io/">https://www.containerdays.io/</a></p>'
+:DevOpsDaysAmsterdam:
+  name: DevOpsDays Amsterdam
+  location: Amsterdam, The Netherlands
+  start: 2021-06-25
+  end: 2021-06-28
+  tags:
+  description: <p>devopsdays Amsterdam brings development, operations, QA, InfoSec,
+    management, and leadership together to discuss the culture and tools to make better
+    organizations and products. The 2021 event will be the seventh time we have held
+    devopsdays Amsterdam, and it should be bigger and better than ever before!</p>
+    <p>Additional details about the conference are available at <a href="https://www.devopsdays.org/events/2021-amsterdam/welcome/">https://www.devopsdays.org/events/2021-amsterdam/welcome/</a></p>
+:KubeConChina:
+  name: KubeCon/CloudeNativeCon China
+  location: Shanghai, China
+  start: 2021-06-25
+  end: 2021-06-26
+  tags:
+  description: <p>KubeCon + CloudNativeCon gathers all CNCF projects under one roof.
+    Join leading technologists from open source cloud native communities to further
+    the advancement of cloud native computing.</p> <p>Additional details about the
+    conference are available at <a href="https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2021/">https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2021/</a></p>
+:IEEECloud:
+  name: IEEE Cloud
+  location: Milan, Italy
+  start: 2021-07-08
+  end: 2021-07-13
+  tags:
+  description: <p>Being the first IEEE conference dedicated to cloud computing, IEEE
+    International Conference on Cloud Computing (CLOUD) has been a prime international
+    forum for both researchers and industry practitioners to exchange the latest fundamental
+    advances in the state of the art and practice of cloud computing, identify emerging
+    research topics, and define the future of cloud computing. All topics regarding
+    cloud computing align with the theme of CLOUD. In 2021, we will gather to strive
+    to advance the largest international professional forum on cloud computing.</p>
+    <p>Additional details about the conference are available at <a href="http://conferences.computer.org/cloud/2021/">http://conferences.computer.org/cloud/2021/</a></p>
+:XenProject:
+  name: "​Xen Project ​Developer ​and ​Design ​Summit"
+  location: Chicago, IL
+  start: 2021-07-09
+  end: 2021-07-11
+  tags:
+  description: <p>The ​Xen Project ​Developer ​and ​Design ​Summit ​brings ​together
+    ​the ​Xen ​Project’s ​community ​of ​developers ​and ​power ​users ​for ​their
+    ​annual ​conference. ​The ​conference ​is ​about ​sharing ​ideas ​and ​the ​latest
+    ​developments, ​sharing ​experience, ​planning, ​collaboration ​and ​above ​all
+    ​to ​have ​fun ​and ​to ​meet ​the ​community ​that ​defines ​the ​Xen ​Project.</p>
+    <p>Additional details about the conference are available at <a href="https://events.linuxfoundation.org/events/xensummit-2021/">https://events.linuxfoundation.org/events/xensummit-2021/</a></p>
+:OSCON:
+  name: OSCON
+  location: Portland, OR
+  start: 2021-07-15
+  end: 2021-07-18
+  tags:
+  description: <p>OSCON brings open source community, enterprise, and engineering
+    teams together to share best practices, projects that transform business, and
+    insight into what you need next.</p> <p>Additional details about the conference
+    are available at <a href="https://conferences.oreilly.com/oscon/oscon-or">https://conferences.oreilly.com/oscon/oscon-or</a></p>
+:ALSummitJapan:
+  name: Automotive Linux Summit Japan
+  location: Tokyo, Japan
+  start: 2021-07-17
+  end: 2021-07-19
+  tags:
+  description: <p>Automotive Linux Summit connects the developer community driving
+    the innovation in automotive Linux together with the vendors and users providing
+    and using the code in order to drive the future of embedded devices in the automotive
+    arena.</p> <p>Additional details about the conference are available at <a href="https://events.linuxfoundation.org/events/automotive-linux-summit-2021/">https://events.linuxfoundation.org/events/automotive-linux-summit-2021/</a></p>
+:OSSummitJapan:
+  name: Open Source Summit Japan
+  location: Tokyo, Japan
+  start: 2021-07-17
+  end: 2021-07-19
+  tags:
+  description: <p>Open Source Summit Japan is the leading conference in Japan connecting
+    the open source ecosystem under one roof, providing a forum for technologists
+    and open source industry leaders to collaborate and share information, learn about
+    the latest in open source technologies and find out how to gain a competitive
+    advantage by using innovative open solutions.</p> <p>Additional details about
+    the conference are available at <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2021/">https://events.linuxfoundation.org/events/open-source-summit-japan-2021/</a></p>
+:DebConf:
+  name: DebConf
+  location: Curitba, Brazil
+  start: 2021-07-21
+  end: 2021-07-28
+  tags:
+  description: <p>DebConf is the annual conference for Debian contributors and users
+    interested in improving Debian. Previous Debian conferences have featured speakers
+    and attendees from all around the world.</p> <p>Additional details about the conference
+    are available at <a href="https://debconf19.debconf.org/">https://debconf19.debconf.org/</a></p>
+:DevOpsDaysIndianapolis:
+  name: DevOpsDays Indianapolis
+  location: Indianapolis, IN
+  start: 2021-07-25
+  end: 2021-07-26
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-indianapolis/welcome/">https://www.devopsdays.org/events/2021-indianapolis/welcome/</a></p>
+:DevConfIN:
+  name: DevConf.IN
+  location: Christ University - Bengaluru, India
+  start: 2021-08-02
+  end: 2021-08-03
+  tags:
+  description: <p>DevConf.IN 2021 is the annual Developers’ Conference organized by
+    Red Hat in India. It is meant to provide a platform to the local FOSS community
+    participants to come together and engage in knowledge sharing through technical
+    talks, workshops, panel discussions, hackathon and such activities. <a href="https://devconf.info/in/2021/">https://devconf.info/in/2021/</a></p>
+:PyConAU:
+  name: PyCon AU
+  location: Sydney, Australia
+  start: 2021-08-02
+  end: 2021-08-06
+  tags:
+  description: <p>PyCon Australia (“PyCon AU”) is the national conference for the
+    Python Programming Community, bringing together professional, student and enthusiast
+    developers with a love for developing with Python.</p> <p>Additional details about
+    the conference are available at <a href="https://2021.pycon-au.org/">https://2021.pycon-au.org/</a></p>
+:DevOpsDaysMinneapolis:
+  name: DevOpsDays Minneapolis
+  location: Minneapolis, MN
+  start: 2021-08-06
+  end: 2021-08-07
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-minneapolis/welcome/">https://www.devopsdays.org/events/2021-minneapolis/welcome/</a></p>
+:Flock:
+  name: FlocktoFedora
+  location: Budapest,Hungary
+  start: 2021-08-08
+  end: 2021-08-11
+  tags:
+  description: <p>Flock is the Fedora Project’s annual contributor-focused conference.
+    The conference provides a venue for face to face meetings and conversations. It
+    is also a place to celebrate our community.. <a href="https://flocktofedora.org/">https://flocktofedora.org/</a></p>
+:DevConfUS:
+  name: DevConf.US
+  location: Boston, MA
+  start: 2021-08-15
+  end: 2021-08-17
+  tags:
+  description: <p>DevConf.US 2021 is the 2nd annual, free, Red Hat sponsored technology
+    conference for community project and professional contributors to Free and Open
+    Source technologies at the Boston University in the historic city of Boston, USA.</p>
+    <p>Additional details about the conference are available at <a href="https://devconf.info/us/">https://devconf.info/us/</a></p>
+:LinuxSecuritySummit:
+  name: Linux Security Summit
+  location: San Diego, CA
+  start: 2021-08-19
+  end: 2021-08-21
+  tags:
+  description: <p>The Linux Security Summit (LSS) is a technical forum for collaboration
+    between Linux developers, researchers, and end users with the primary aim of fostering
+    community efforts in analyzing and solving Linux security challenges.</p> <p>Additional
+    details about the conference are available at <a href="https://events.linuxfoundation.org/events/linux-security-summit-north-america-2021/">https://events.linuxfoundation.org/events/linux-security-summit-north-america-2021/</a></p>
+:OpenSym:
+  name: OpenSym
+  location: Skövde, Sweden
+  start: 2021-08-20
+  end: 2021-08-22
+  tags:
+  description: <p>OpenSym (formerly WikiSym) is the premier research and practitioner
+    conference on open collaboration.</p> <p>Additional details about the conference
+    are available at <a href="http://www.opensym.org/os2021/">http://www.opensym.org/os2021/</a></p>
+:EmbeddedLinuxConf:
+  name: Embedded Linux Conference/OpenIoT Summit North America
+  location: San Diego, CA
+  start: 2021-08-21
+  end: 2021-08-23
+  tags:
+  description: <p>Embedded Linux Conference is the premier vendor-neutral technical
+    conference for companies and developers using Linux in embedded products. OpenIoT
+    Summit is a technical conference, which provides the technical knowledge needed
+    to deliver smart connected products and solutions to the developers and architects
+    working on industrial IoT.</p> <p>Additional details about the conference are
+    available at <a href="https://events.linuxfoundation.org/events/elc-openiot-north-america-2021/">https://events.linuxfoundation.org/events/elc-openiot-north-america-2021/</a></p>
+:OSSummitNA:
+  name: Open Source Summit North America
+  location: San Diego, CA
+  start: 2021-08-21
+  end: 2021-08-23
+  tags:
+  description: <p>Open Source Summit North America is the leading conference connecting
+    the open source ecosystem under one roof, providing a forum for technologists
+    and open source industry leaders to collaborate and share information, learn about
+    the latest in open source technologies and find out how to gain a competitive
+    advantage by using innovative open solutions.</p> <p>Additional details about
+    the conference are available at <a href="https://events.linuxfoundation.org/events/open-source-summit-north-america-2021/">https://events.linuxfoundation.org/events/open-source-summit-north-america-2021/</a></p>
+:GUADEC:
+  name: GUADEC
+  location: Thessaloniki, Greece
+  start: 2021-08-23
+  end: 2021-08-28
+  tags:
+  description: <p>GUADEC brings together Free Software enthusiasts and professionals
+    from all over the world. Join us for six days of talks, demos, discussion, parties,
+    games and more.</p> <p>Additional details about the conference are available at
+    <a href="https://2021.guadec.org/">https://2021.guadec.org/</a></p>
+:FOSS4G:
+  name: FOSS4G
+  location: Bucharest, Romania
+  start: 2021-08-26
+  end: 2021-08-30
+  tags:
+  description: <p>We are convinced that open source is the solution and, thus, FOSS4G
+    2021 is dedicated to enable an asymptotic connection between software and data.</p>
+    <p>Additional details about the conference are available at <a href="https://2021.foss4g.org/">https://2021.foss4g.org/</a></p>
+:PyConLATAM:
+  name: PyCon LATAM
+  location: Puerto Vallarta, Mexico
+  start: 2021-08-29
+  end: 2021-08-29
+  tags:
+  description: <p>Conference talks, keynotes, sprints, and hackathons about Python.</p>
+    <p>Additional details about the conference are available at <a href="https://www.pylatam.org/en/">https://www.pylatam.org/en/</a></p>
+:ApacheCon:
+  name: ApacheCon
+  location: Las Vegas, NV
+  start: 2021-09-09
+  end: 2021-09-12
+  tags:
+  description: <p>Since 1998 – before the ASF’s incorporation – ApacheCon has been
+    drawing participants at all levels to explore “Tomorrow’s Technology Today” across
+    300+ Apache projects and their diverse communities.</p> <p>Additional details
+    about the conference are available at <a href="https://www.apachecon.com/acna19/index.html">https://www.apachecon.com/acna19/index.html</a></p>
+:DevOpsDaysCairo:
+  name: DevOpsDays Cairo
+  location: Cairo, Egypt
+  start: 2021-09-09
+  end: 2021-09-09
+  tags:
+  description: <p>Devopsdays is a worldwide series of technical conferences covering
+    topics of software development, IT infrastructure operations, and the intersection
+    between them. Each event is run by volunteers from the local area.</p> <p>Additional
+    details about the conference are available at <a href="https://www.devopsdays.org/events/2021-cairo/welcome/">https://www.devopsdays.org/events/2021-cairo/welcome/</a></p>
+:LinuxPlumbersConference:
+  name: Linux Plumbers Conference
+  location: Lisbon, Portugal
+  start: 2021-09-09
+  end: 2021-09-11
+  tags:
+  description: <p>The Linux Plumbers conference is a working conferences intended
+    for professional networking and collaboration in the Linux community.</p> <p>Additional
+    details about the conference are available at <a href="https://linuxplumbersconf.org/event/4/page/21-lpc-2021-overview">https://linuxplumbersconf.org/event/4/page/21-lpc-2021-overview</a></p>
+:CloudFoundryEU:
+  name: Cloud Foundry Europe
+  location: The Hague, The Netherlands
+  start: 2021-09-11
+  end: 2021-09-12
+  tags:
+  description: <p>Whether you’re a contributor or committer building the platform,
+    or you’re using the platform to attain your business goals, Cloud Foundry Europe
+    Summit is where developers, operators, CIOs and other IT professionals go to share
+    best practices and innovate together.</p> <p>Additional details about the conference
+    are available at <a href="https://www.cloudfoundry.org/event/eusummit2021/">https://www.cloudfoundry.org/event/eusummit2021/</a></p>
+:Starngeloop:
+  name: Strange Loop
+  location: St. Louis, MO
+  start: 2021-09-12
+  end: 2021-09-14
+  tags:
+  description: <p>Meet us in St. Louis to make connections with the creators and users
+    of the languages, libraries, tools, and techniques at the forefront of the industry.</p>
+    <p>Additional details about the conference are available at <a href="https://www.thestrangeloop.com/">https://www.thestrangeloop.com/</a></p>
+:AgilePrague:
+  name: Agile Prague Conference
+  location: Prague, Czech Republic
+  start: 2021-09-16
+  end: 2021-09-17
+  tags:
+  description: <p>The conference is running in two parallel tracks in two days, where
+    you can choose from the variety of talks for managers, scrum masters, product
+    owners and try agile practices in practical workshops for testers and developers,
+    share the know-how, discuss in open space.</p> <p>Additional details about the
+    conference are available at <a href="https://agileprague.com/">https://agileprague.com/</a></p>
+:HackerfestPrague:
+  name: HackerFest Prague
+  location: Prague, Czech Republic
+  start: 2021-09-16
+  end: 2021-09-17
+  tags:
+  description: <p>HackerFest 2021 is in its 7th year as the Security Conference on
+    the Most Dangerous Hacking Practices of Today. Expect an up-to-date overview of
+    hacking and tips for protecting your business and corporate data, known IT security
+    experts, ethical hackers, and workshops.</p> <p>Additional details about the conference
+    are available at <a href="https://hackerfest.cz/cs/">https://hackerfest.cz/cs/</a></p>
+:ONSEU:
+  name: Open Networking Summit Europe
+  location: Antwerp, Belgium
+  start: 2021-09-23
+  end: 2021-09-25
+  tags:
+  description: <p>Open Networking Summit is the industry’s premier open networking
+    event, gathering enterprises, service providers and cloud providers across the
+    ecosystem to share learnings, highlight innovation and discuss the future of Open
+    Source Networking, including SDN, NFV, orchestration and the automation of cloud,
+    network, &amp; IoT services.</p> <p>Additional details about the conference are
+    available at <a href="https://events.linuxfoundation.org/events/open-networking-summit-europe-2021/">https://events.linuxfoundation.org/events/open-networking-summit-europe-2021/</a></p>
+:DeutscheOpenStackTage:
+  name: Deutsche OpenStack Tage
+  location: Berlin, Germany
+  start: 2021-09-24
+  end: 2021-09-26
+  tags:
+  description: <p>The Deutsche OpenStack Tage has established itself as a recognized
+    specialist conference for the operation of the modular cloud platform. Every year,
+    around 300 IT professionals from the areas of development, administration, application,
+    and management come together to share their knowledge and enrich their knowledge.</p>
+    <p>Additional details about the conference are available at <a href="https://openstack-tage.de/">https://openstack-tage.de/</a></p>
+:GHC:
+  name: Grace Hopper Celebration
+  location: Orlando, FL
+  start: 2021-10-02
+  end: 2021-10-04
+  tags:
+  description: <p>Grace Hopper Celebration is the world’s largest gathering of women
+    technologists. It is produced by AnitaB.org and presented in partnership with
+    ACM.</p> <p>Additional details about the conference are available at <a href="https://ghc.anitab.org/">https://ghc.anitab.org/</a></p>
+:oVirt:
+  name: oVirt Conference 2021
+  location: Oracle Italia, 147 Via Amsterdam 00144 Rome, Italy
+  start: 2021-10-04
+  end: 2021-10-04
+  description: <p>Learn more about and influence the future of oVirt, the open source
+    virtualization platform!</p> <p>Event dedicated to privates and enterprises who
+    wants to discover and deepen tematics related to virtualization and open source.</p>
+    <p>Additional details about the conference are available <a href="https://www.eventbrite.it/e/biglietti-ovirt-conference-2021-innovate-the-datacenter-with-open-virtualization-71510039453#">on
+    the conference website</a>.</p>
+:DevOpsEnterpriseSummit:
+  name: DevOps Enterprise Summit
+  location: Las Vegas, NV
+  start: 2021-10-28
+  end: 2021-10-30
+  tags:
+  description: <p>The DevOps Enterprise Summit is a vendor-neutral conference for
+    technology leaders who are transforming how large, complex organizations deliver
+    and operate software to help their organizations win in the marketplace.</p> <p>Additional
+    details about the conference are available at <a href="https://events.itrevolution.com/us/">https://events.itrevolution.com/us/</a></p>
+:EmbeddedLinuxEU:
+  name: Embedded Linux Conference Europe
+  location: Lyon, France
+  start: 2021-10-28
+  end: 2021-10-30
+  tags:
+  description: <p>Embedded Linux Conference (ELC) is the premier vendor-neutral technical
+    conference where developers working on embedded Linux and industrial IoT products
+    and deployments gather for education and collaboration, paving the way for innovation.
+    Attend, and join 800+ technical experts paving the way for transformation in these
+    key areas from across the globe for education, collaboration and deep dive learning
+    opportunities.</p> <p>Additional details about the conference are available at
+    <a href="https://events.linuxfoundation.org/events/embedded-linux-conference-europe-2021/">https://events.linuxfoundation.org/events/embedded-linux-conference-europe-2021/</a></p>
+:OpenSourceSummitEU:
+  name: Open Source Summit Europe
+  location: Lyon, France
+  start: 2021-10-28
+  end: 2021-10-30
+  tags:
+  description: <p>Open Source Summit Europe (OSSEU) is the leading conference for
+    developers, architects, and other technologists – as well as open source community
+    and industry leaders – to collaborate, share information, learn about the latest
+    technologies and gain a competitive advantage by using innovative open solutions.
+    Over 2,000 will gather for OSSEU in 2021.</p> <p>Additional details about the
+    conference are available at <a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2021/">https://events.linuxfoundation.org/events/open-source-summit-europe-2021/</a></p>
+:OpenEd:
+  name: OpenEd19
+  location: Phoenix, AZ
+  start: 2021-10-30
+  end: 2021-11-01
+  tags:
+  description: <p>The 16th Annual Open Education Conference.</p> <p>Additional details
+    about the conference are available at <a href="https://openedconference.org/2021/">https://openedconference.org/2021/</a></p>
+:LinuxSecuritySummitEU:
+  name: Linux Security Summit Europe
+  location: Lyon, France
+  start: 2021-10-31
+  end: 2021-11-01
+  tags:
+  description: <p>The Linux Security Summit (LSS) is a technical forum for collaboration
+    between Linux developers, researchers, and end users with the primary aim of fostering
+    community efforts in analyzing and solving Linux security challenges.</p> <p>Additional
+    details about the conference are available at <a href="https://events.linuxfoundation.org/events/linux-security-summit-europe-2021/">https://events.linuxfoundation.org/events/linux-security-summit-europe-2021/</a></p>
+:DevoxxUkraine:
+  name: Devoxx Ukraine
+  location: Kyiv, Ukraine
+  start: 2021-11-01
+  end: 2021-11-02
+  tags:
+  description: <p>JavaDay joins Devoxx family, the biggest Java Community conference
+    in the world and becomes Devoxx Ukraine.</p> <p>Additional details about the conference
+    are available at <a href="https://devoxx.org.ua/">https://devoxx.org.ua/</a></p>
+:DevoxxBelgium:
+  name: Devoxx Belgium
+  location: Antwerp, Belgium
+  start: 2021-11-04
+  end: 2021-11-08
+  tags:
+  description: <p>Devoxx Belgium is a 5-days conference where developers and architects
+    come together and explore the latest technology advancements and fascinating ideas,
+    with some of the most inspiring speakers in our sector.</p> <p>Additional details
+    about the conference are available at <a href="https://devoxx.be/">https://devoxx.be/</a></p>
+:OIS:
+  name: Open Infrastructure Summit Shanghai
+  location: Shanghai, China
+  start: 2021-11-04
+  end: 2021-11-06
+  tags:
+  description: <p>Join the people building and operating open infrastructure, with
+    hundreds of sessions and workshops on Container Infrastructure, CI/CD, Telecom
+    + NFV, Public Cloud, Private &amp; Hybrid Cloud, Security and members of open
+    source communities like Airship, Ansible, Ceph, Docker, Kata Containers, Kubernetes,
+    ONAP, OpenStack, Open vSwitch, OPNFV, StarlingX, Zuul and more.</p> <p>Additional
+    details about the conference are available at <a href="https://www.openstack.org/summit/shanghai-2021/">https://www.openstack.org/summit/shanghai-2021/</a></p>
+:WebSummit:
+  name: Web Summit
+  location: Lisbon, Portgual
+  start: 2021-11-04
+  end: 2021-11-07
+  tags:
+  description: '<p>At a time of great uncertainty for industry upon industry and the
+    world itself, we gather the founders and CEOs of technology companies, fast-growing
+    startups, policymakers and heads of state to ask a simple question: where to next?</p>
+    <p>Additional details about the conference are available at <a href="https://websummit.com/">https://websummit.com/</a></p>'
+:Serverless:
+  name: Serverless Computing London
+  location: London, United Kingdom
+  start: 2021-11-06
+  end: 2021-11-08
+  tags:
+  description: <p>Serverless Computing London will return in November 2021 to help
+    architects, developers and CIOs decide on the best path to a more efficient, scalable
+    and secure computing future.</p> <p>Additional details about the conference are
+    available at <a href="https://serverlesscomputing.london/">https://serverlesscomputing.london/</a></p>
+:QConUS:
+  name: QCon San Francisco
+  location: San Francisco, CA
+  start: 2021-11-11
+  end: 2021-11-15
+  tags:
+  description: <p>QCon San Francisco is a conference for senior software engineers
+    and architects on the patterns, practices, and use cases leveraged by the world’s
+    most innovative software shops.</p> <p>Additional details about the conference
+    are available at <a href="https://qconsf.com/">https://qconsf.com/</a></p>
+:techbash:
+  name: TechBash
+  location: Pocono Manor, PA
+  start: 2021-11-12
+  end: 2021-11-15
+  tags:
+  description: <p>At TechBash, attendees will take their skills to the next level,
+    learning from experts who share their knowledge in a fun, collaborative, and inclusive
+    environment. TechBash is focused on Web, Cloud, DevOps, Architecture, Best Practices,
+    Soft Skills, and much more.</p> <p>Additional details about the conference are
+    available at <a href="https://techbash.com/">https://techbash.com/</a></p>
+:SC:
+  name: SuperComputing 19
+  location: Denver, CO
+  start: 2021-11-17
+  end: 2021-11-22
+  tags:
+  description: <p>HPC touches lives everywhere – every day. And today, our work in
+    HPC is more essential than ever, driven by an urgent need to provide computational
+    solutions for the world’s greatest challenges from precision medicine and agricultural
+    technologies to autonomous vehicles in smart cities and renewable energy.</p>
+    <p>Additional details about the conference are available at <a href="https://sc19.supercomputing.org/">https://sc19.supercomputing.org/</a></p>
+:KubeConNA:
+  name: KubeCon/CloudeNativeCon North America
+  location: San Diego, CA
+  start: 2021-11-18
+  end: 2021-11-21
+  tags:
+  description: <p>The Cloud Native Computing Foundation’s flagship conference gathers
+    adopters and technologists from leading open source and cloud native communities
+    in San Diego, California from November 18-21, 2021. Join Kubernetes, Prometheus,
+    OpenTracing, Fluentd, gRPC, containerd, rkt, CNI, Envoy, Jaeger, Notary, TUF,
+    Vitess, CoreDNS, NATS, Linkerd and Helm as the community gathers for four days
+    to further the education and advancement of cloud native computing.</p> <p>Additional
+    details about the conference are available at <a href="https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2021/">https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2021/</a></p>
+:OpenFinTech:
+  name: Open FinTech Forum
+  location: New York, NY
+  start: 2021-12-09
+  end: 2021-12-09
+  tags:
+  description: <p>Focusing on the intersection of financial services and open source,
+    Open FinTech Forum will provide CIOs and senior technologists guidance on building
+    internal open source programs as well as an in-depth look at cutting-edge open
+    source technologies, including AI, Blockchain/Distributed Ledger, Kubernetes/Containers,
+    that can be leveraged to drive efficiencies and flexibility</p> <p>Additional
+    details about the conference are available at <a href="https://events.linuxfoundation.org/events/open-fintech-forum-2021/">https://events.linuxfoundation.org/events/open-fintech-forum-2021/</a></p>
+:NodeJSInteractive:
+  name: Node+JS Interactive
+  location: Montreal, PQ
+  start: 2021-12-11
+  end: 2021-12-12
+  tags:
+  description: <p>At Node+JS Interactive, attendees, speakers and sponsors will collaborate,
+    network and learn from each other as they share their experiences deploying IoT,
+    serverless, cloud native and progressive web apps, and much more. Attendees will
+    benefit from face-to-face interaction discussing a variety of important topics
+    like accessibility and internationalization.</p> <p>Additional details about the
+    conference are available at <a href="https://events.linuxfoundation.org/events/nodejs-interactive-2021/">https://events.linuxfoundation.org/events/nodejs-interactive-2021/</a></p>
+:RDO-Meetups:
+  name: RDO Meetups
+  type: series
+  tags: RDO
+  talks:
+  - title: 'Indonesia OpenStack Meetup #7 - Jakarta'
+    location: Satrio Tower Building Jl. Prof. DR. Satrio No.RT.7, RW.2 · Kota Jakarta
+      Selatan
+    speaker: Indonesia OpenStack User Group
+    start: 2021-12-12 12:00 UTC
+    end: 2021-12-12 14:00 UTC
+    description: "<p>https://www.meetup.com/Indonesia-OpenStack-User-Group/events/266966431/</p>"
+  - title: OpenInfra Meetup в Mail.ru
+    location: Офис компании Mail.Ru Group Москва, Ленинградский проспект 39, стр.
+      79 · Moscow
+    speaker: OpenStack & OpenInfra Russia Moscow
+    start: 2021-12-12 17:30 UTC
+    end: 2021-12-12 21:00 UTC
+    description: "<p>https://www.meetup.com/OpenStack-Russia/events/266966369/</p>"
+  - title: 'Meetup #1 - Roadmap 202'
+    location: Hochschule Osnabrück – Campus Lingen Kaiserstraße 10C · Lingen (Ems)
+    speaker: OpenInfra Lower Saxony
+    start: 2021-12-17 18:00 UTC
+    end: 2021-12-17 20:00 UTC
+    description: "<p>https://www.meetup.com/OpenInfra-LowerSaxony/events/266801333/</p>"
+  start: 2021-12-12
+  end: 2021-12-17
