@@ -8,11 +8,9 @@ processAllEvents = (events) ->
   today = Date.now()
   formatted = []
 
-  for year of events
-    for item of events[year]
-      event = events[year][item]
-
-      if event['start']
+  Object.values(events)
+    .forEach (event) ->
+      if event && event['start']
 
         event['title'] = event['name']
 
@@ -142,11 +140,9 @@ processCalendar = (data) ->
 
 
 $ ->
-  # TODO: Make the URL configurable via liquid
-  # TODO: Dynamically load by year (so not all events are loaded at once)
-  yearData = '//rhevents-duckosas.rhcloud.com/all.json'
+  eventData = "{{ site.baseurl }}/assets/lib/events.json"
 
   now = Date.now()
 
   # Grab and format events
-  $.get yearData, processCalendar
+  $.get eventData, processCalendar
