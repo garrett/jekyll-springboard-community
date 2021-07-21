@@ -3,7 +3,7 @@
 
 slugify = (name) ->
   # TODO: Enhance slugification
-  name.toLowerCase().replace(/[^\w]/g, '-')
+  (name || "").toLowerCase().replace(/[^\w]/g, '-')
 
 formatEvents = (data) ->
   $placeholder = $('#upcoming-template > .upcoming-list').clone()
@@ -17,28 +17,10 @@ formatEvents = (data) ->
   # Grab the more link href for the base event link generation
   base_link = $more_link.find('a').attr('href')
 
-  # Overload data with series talks
-  data
-    .filter (item) ->
-      # Only work on the series types with talks
-      item['type'] == 'series' && item['talks']
-    .forEach (item) ->
-      item['talks'].forEach (talk) ->
-        # Make the name a combo of the series title and talk
-        talk['name'] = item.name + ': ' + talk.title
-        # Be certain we're only using the date (and not time)
-        talk['start'] = talk.start.split(' ')[0]
-        # Add the talk as a high-level event in the event data
-        data.push talk
-
-  # Remove series
-  events = data.filter (item) ->
-    item['type'] != 'series'
-
   items_displayed = 0
 
   # Process each conference
-  events
+  Object.values(data)
     .sort (a,b) -> a.start > b.start
     .forEach (item) ->
       date = new Date item.start
@@ -58,10 +40,12 @@ formatEvents = (data) ->
       else
         keyword_match = true
 
-      # Insert proper date
+      month = new Intl.DateTimeFormat(undefined, { month: "short" }).format(date)
+
+      # Insert day and month
       $date
         .find('.day').html(date.getDate()).end()
-        .find('.month').html(date.toLocaleFormat('%b')).end()
+        .find('.month').html(month).end()
         .attr('title', item.start)
 
       # Insert event title and link
@@ -84,7 +68,7 @@ formatEvents = (data) ->
 
 $ ->
   # TODO: Make the URL configurable via liquid
-  eventsData = '//rhevents-duckosas.rhcloud.com/upcoming.json'
+  eventsData = "{{ site.baseurl }}/assets/lib/events.json"
 
   # Grab and format events
   $.get eventsData, formatEvents
